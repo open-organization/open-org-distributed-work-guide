@@ -7,7 +7,8 @@
 
 ## Chapters
 
-How managers can support distributed teams—Angela Roberston
+- The importance of trust on distributed teams—Peter Baumgartner
+- How managers can support distributed teams—Angela Roberston
 
 ## Back Matter
 
