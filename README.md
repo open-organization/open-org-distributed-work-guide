@@ -25,7 +25,8 @@ This guide offers remote, distributed teams (those working remotely for the firs
 - ... anything else you'd like to propose!
 
 ## Getting started
-{coming soon}
+
+See [CONTRIBUTING.md](https://github.com/open-organization/open-org-distributed-work-guide/blob/master/CONTRIBUTING.md) in this repository.
 
 ## Project timeline
 {coming coon}
