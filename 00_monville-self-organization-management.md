@@ -1,7 +1,7 @@
 # Could your team be managing itself?
 Alexis Monville
 
-Now that a lot of people are working from home in what seems to be a sort of new normal, we have to answer that question: Could your team be managing itself? I can already imagine some of you, dear readers frowning and thinking: "A team has to be managed."
+Now that a lot of people are working from home in what seems to be a sort of new normal, we have to answer that question: Could your team be managing itself? I can already imagine some of you, dear readers, frowning and thinking: "A team has to be managed."
 
 As it is more critical than ever in this new context, let me try to clarify why I think it is essential to discuss designing organizational roles that won't become bottlenecks (roles that won't prevent the organization from delivering efficiently or to adapting quickly to changes). In classic organization design, we tend to think that designing boxes on an organizational chart and putting great people in charge will solve all our problems. That approach *could* work in static environments, where what you have to deliver is defined once and for all.
 
@@ -66,5 +66,11 @@ In both cases, their role will be to ensure that the activities are done by the 
 By looking at the activities in more detail, I can envision many of them being handled by team members as part of their current role, or in a new role.
 
 Giving managers or team leaders the ability to consider the activities for which they're accountable and the activities they can *delegate to the team* can remove the bottlenecks and single points of failure that currently exist in some organizations.
+
+As a conclusion, having a clarifying conversations on the different roles in the team is even more critical when the team is distributed. It helps people playing the different roles understand the bigger picture, and free them to propose their help when something is going sideways.
+
+A last thing. It is easy to start. Open a shared document online with the team. Ask the team members to describe what they think the roles and responsibilities are. Invite the stakeholders of the team to contribute. There will be discrepencies and disagreements. Resolving them as a team will make it a much better team.
+
+Enjoy!
 
 *Alexis Monville is building high impact sustainable organizations. Alexis is a member of the Engineering Leadership Team at Red Hat. Alexis brings more than 20 years of operations and management experience. Over the years, Alexis worked in diverse sectors, from the automotive industry, the epic Web start, IT consulting, public sector, software development, which led him to found a management and organization consulting and coaching firm.*
