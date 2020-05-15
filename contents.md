@@ -15,6 +15,7 @@
 - The benefits of intentional relationship management for remote teams—Lauri Apple
 - Open practices that lead to better remote meetings—Jen Krieger, Jana Gutierrez Kardum, Hina Popal, Alexis Monville (Red Hat)
 - The importance of empowering distributed teams—Allison Matlack (Red Hat)
+- Distributed teams benefit when they track issues publicly—Chad Whitacre (Proofpoint)
 
 ## Back Matter
 
