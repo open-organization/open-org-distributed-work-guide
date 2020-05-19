@@ -5,14 +5,14 @@ A public issue tracker is a vital communication tool for an open organization, b
 
 Before we start, though, let's define what we mean by "issue tracker." Simply put, an issue tracker is a *shared to-do list*. Think of scribbling a quick list of errands to run: buy bread, mail package, drop off library books. As you drive around town, it feels good to cross each item off your list. Now scale that up to the work you have to do in your organization, and add in a healthy dose of software-enabled collaboration. You've got an issue tracker!
 
-Whether you use GitHub, or another option, such as Bitbucket, GitLab, or Trello, an issue tracker is the right tool for the task of coordinating with your colleagues. It is also crucial for converting outsiders into colleagues, one of the hallmarks of an open organization. How does that work? I'm glad you asked!
+Whether you use GitHub, or another option, such as Jira, GitLab, or Trello, an issue tracker is the right tool for the task of coordinating with your colleagues. It is also crucial for converting outsiders into colleagues, one of the hallmarks of an open organization. How does that work? I'm glad you asked!
 
 ## Best practices for using an issue tracker
 
 The following best practices for using a public issue tracker to convert outsiders into colleagues are based on our experience at [Gratipay](https://gratipay.com/) over the past five years. We help companies and others pay for open source, and we love collaborating with our community using our issue trackers. Here's what we've learned.
 
 ### 0. Prioritize privacy
-It may seem like an odd place to start, talking about privacy in a post about public issue trackers. But we must remember that [openness is not an end in itself](https://opensource.com/open-organization/16/9/openness-means-to-what-end), and that any genuine and true openness is only ever built on a solid foundation of safety and consent. Never post information publicly that customers or other third parties have given you privately, unless you explicitly ask them and they explicitly agree to it. Adopt a policy and train your people. (You might reference Gratipay'[s policy](http://inside.gratipay.com/howto/seek-consent).) Okay! Now that we're clear on that, let's proceed.
+It may seem like an odd place to start, talking about privacy in a post about public issue trackers. But we must remember that [openness is not an end in itself](https://opensource.com/open-organization/16/9/openness-means-to-what-end), and that any genuine and true openness is only ever built on a solid foundation of safety and consent. Never post information publicly that customers or other third parties have given you privately, unless you explicitly ask them and they explicitly agree to it. Adopt a policy and train your people. Okay! Now that we're clear on that, let's proceed.
 
 ### 1. Default to deciding in public
 If you make decisions in private, you're losing out on the benefits of running an open organization, such as surfacing diverse ideas, recruiting motivated talent, and realizing greater accountability. Even if your full-time employees are the only ones using your public issue tracker at first, do it anyway. Avoid the temptation to treat your public issue tracker as a second-class citizen. If you have a conversation in the office, post a summary on the public issue tracker, and give your community time to respond before finalizing the decision. This is the first step towards using your issue tracker to unlock the power of open for your organization: if it's not in the issue tracker, it didn't happen!
@@ -39,4 +39,4 @@ Those are some of the practices that we've found most helpful at Gratipay in usi
 
 That said, we're always learning.
 
-*Chad Whitacre is an engineering manager at Proofpoint.*
+*Chad Whitacre was the founder of Gratipay, a funding platform for open source software developers and other creators. Gratipay's open company vision lives on through a successful fork, Liberapay.*
