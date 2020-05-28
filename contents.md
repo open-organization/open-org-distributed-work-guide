@@ -23,6 +23,7 @@
 ### Building community
 - Having better meetings by fostering community by default—Laura Hilliger (We Are Open Co-Op)
 - Fostering communal office feel at a distance—Karsten Waid (Red Hat)
+- How working like an open source community made my remote team more efficient—Jorge Castro (VMware)
 
 ### Leading and managing
 - Understanding self-organization and management—Alexis Monville (Red Hat)
