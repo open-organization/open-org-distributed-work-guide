@@ -15,7 +15,7 @@
 - Visualizing asychronous work—Jimmy Sjölund (Telia)
 
 ### Communicating
-- The benefits of intentional relationship management for remote teams—Lauri Apple
+- The benefits of intentional relationship management for remote teams—Lauri Apple (Workday)
 - Etiquette lessons from open soruce communities—Joe Brockmeier (Red Hat)
 - What to expect when you're connecting (selecting communication tools)—Ben Cotton (Red Hat)
 - Open practices that lead to better remote meetings—Jen Krieger, Jana Gutierrez Kardum, Hina Popal, Alexis Monville (Red Hat)
