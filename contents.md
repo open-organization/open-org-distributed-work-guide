@@ -11,7 +11,7 @@
 - Empowering distributed teams by developing a social contract—Allison Matlack (Red Hat)
 
 ### Building community
-- Having better meetings by fostering community by default—Laura Hilliger (We Are Open Co-Op)
+- Conducting effective community calls (in 11 steps)—Laura Hilliger (We Are Open Co-Op)
 - Fostering communal office feel at a distance—Karsten Waid (Red Hat)
 - How working like an open source community made my remote team more efficient—Jorge Castro (VMware)
 
