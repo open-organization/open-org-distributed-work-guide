@@ -8,6 +8,7 @@
 
 ### Establishing trust
 - The importance of trust on distributed teams—Peter Baumgartner (Lincoln Loop)
+- Improving teamwork by engineering trust—Lauri Apple (Workday)
 - Empowering distributed teams by developing a social contract—Allison Matlack (Red Hat)
 
 ### Building community
@@ -16,13 +17,13 @@
 - How working like an open source community made my remote team more efficient—Jorge Castro (VMware)
 
 ### Communicating
-- The benefits of intentional relationship management for remote teams—Lauri Apple (Workday)
 - Etiquette lessons from open soruce communities—Joe Brockmeier (Red Hat)
 - What to expect when you're connecting (selecting communication tools)—Ben Cotton (Red Hat)
 - Open practices that lead to better remote meetings—Jen Krieger, Jana Gutierrez Kardum, Hina Popal, Alexis Monville (Red Hat)
 
 ### Collaborating
 - Distributed teams benefit when they track issues publicly—Chad Whitacre (Proofpoint)
+- It's not the tool: Building a culture of transparency through company-wide chat—Guy Martin (OASIS Open)
 - Visualizing asychronous work—Jimmy Sjölund (Telia)
 
 ### Leading and managing
