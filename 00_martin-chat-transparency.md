@@ -18,7 +18,6 @@ This is a story of how Autodesk ended up adopting Slack at enterprise scale to h
 Utilizing Slack made transparency happen for us.
 
 ## Chat-tastrophe
-
 First, some perspective: My former role at Autodesk involved running our Open@ADSK initiative. I was originally hired to drive our open source strategy, but we quickly expanded my role to include driving open source best practices for internal development, and transforming how we collaborate internally as an organization. This last piece is where we pick up our story of Slack adoption in the company.
 
 But before we even begin to talk about our journey with Slack, let's address why lack of transparency and openness was a challenge for us. What is it that makes transparency such a desirable quality in organizations, and what was I facing when I started at Autodesk?
@@ -42,7 +41,6 @@ My first (open source) thought was: "Hey, why aren't we using IRC, or some other
 My second (engineering) thought was: "Oh, this is simple. We just collapse all 85 of those instances into a single cohesive Slack instance." What soon became obvious was that was the easy part of the solution. Much harder was the work of cajoling, convincing, and moving people to a single, transparent instance. Building in the "guard rails" to enable a closed source tool to provide this transparency was key. These guard rails came in the form of processes, guidelines, and community norms that were the hardest part of this transformation.
 
 ## The real work begins
-
 As I began to slowly help users migrate to the common instance (paying for it was also a challenge, but a topic for another day), I discovered a dedicated group of power users who were helping each other in the ``#adsk-slack-help`` channel on our new common instance of Slack. These power users were, in effect, building the roots of our transparency and community through their efforts.
 
 The open source community manager in me quickly realized these users were the path to successfully scaling Slack at Autodesk. I enlisted five of them to help me, and, together we set about fabricating the community structure for the tool's rollout.
@@ -52,7 +50,6 @@ Here I should note the distinction between a community structure/governance mode
 We did, however, learn an important lesson about transparency and company culture along the way.
 
 ## It's not the tool
-
 When we first launched our main Slack instance, we left the ability for anyone to make a channel private turned on. After about three months of usage, we saw a clear trend: More people were creating *private channels* (and messages) than they were *public channels* (the ratio was about two to one, private versus public). Since our effort to merge 85 Slack instances was intended to increase participation and transparency, we quickly adjusted our policy and turned off this feature for regular users. We instead implemented a policy of review by the admin team, with clear criteria (finance, legal, personnel discussions among the reasons) defined for private channels.
 
 This was probably the only time in this entire process that I regretted something.
@@ -62,7 +59,6 @@ We took an amazing amount of flak for this decision because we were dealing with
 I didn't think anything more about that statement—until that senior executive starting using the phrase "default to open" in his slide decks, in his staff meetings, and with everyone he met. That one moment has defined what we have been trying to do with Slack: The tool isn't the sole reason we've been successful; it's the approach that we've taken around building a self-sustaining community that not only wants to use this tool, but craves the ability it gives them to work easily across the enterprise.
 
 ## What we learned
-
 I say all the time that this could have happened with other, similar tools (Hipchat, IRC, etc.), but it works in this case specifically because we chose an approach of supporting a solution that the user community adopted for their needs, not strictly what the company may have chosen if the decision was coming from the top of the organizational chart. We put a lot of work into making it an acceptable solution (from the perspectives of security, legal, finance, etc.) for the company, but, ultimately, our success has come from the fact that we built this rollout (and continue to run the tool) as a community, not as a traditional corporate IT system.
 
 The most important lesson I learned through all of this is that transparency and community are evolutionary, not revolutionary. You have to understand where your culture is, where you want it to go, and utilize the lever points that the community is adopting itself to make sustained and significant progress. There is a fine balance point between an anarchy, and a thriving community, and we've tried to model our approach on the successful practices of today's thriving open source communities.
