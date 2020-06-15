@@ -14,11 +14,11 @@
 ### Communicating
 - Etiquette lessons from open soruce communities—Joe Brockmeier (Red Hat)
 - What to expect when you're connecting (selecting communication tools)—Ben Cotton (Red Hat)
+- It's not the tool: Building a culture of transparency through company-wide chat—Guy Martin (OASIS Open)
 - Open practices that lead to better remote meetings—Jen Krieger, Jana Gutierrez Kardum, Hina Popal, Alexis Monville (Red Hat)
 
 ### Collaborating
 - Distributed teams benefit when they track issues publicly—Chad Whitacre (Proofpoint)
-- It's not the tool: Building a culture of transparency through company-wide chat—Guy Martin (OASIS Open)
 - Becoming a remote-first company by practicing openness—Isabel Drost-Fromm (Europace)
 - Visualizing asychronous work—Jimmy Sjölund (Telia)
 
