@@ -25,7 +25,7 @@
 ### Building community
 - How to run an online community meeting (in 11 steps)—Laura Hilliger (We Are Open Co-Op)
 - Movement-building from home—Chad Sansing (Mozilla)
-- Fostering communal office feel at a distance—Karsten Waid (Red Hat)
+- Fostering communal office feel at a distance—Karsten Wade (Red Hat)
 - How working like an open source community made my remote team more efficient—Jorge Castro (VMware)
 - What I learned about working openly after one year on a distributed team—Anupama Jha (Red Hat)
 
