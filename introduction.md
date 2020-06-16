@@ -1,35 +1,37 @@
 # Introduction: Why distributed work?
 
 Why might an open organization be interested in distributed work?
-Just listing the reasons could fill this entire guide.
-Most organizations that choose distributed work don't do for idealistic reasons, they do it because they see it as the best way to meet some organizational need.
-Maybe it's saving money on the cost of renting, furnishing, and operating office space.
-Maybe it's to improve hiring, whether by saving money on relocation or becoming more attractive to members who can't or won't relocate.
-Maybe it's to have greater resiliency in case of natural disaster, civil unrest, or all of the other things in your property insurance policy's fine print.
-Whatever the reason, it's a choice organizations deliberately make.
+Listing individual reasons could fill this entire guide.
+Most organizations that choose a distributed work model don't do so for idealistic reasons; they do it because they see it as the best way to meet some organizational need.
+Maybe it's to save money on the cost of renting, furnishing, and operating office space.
+Maybe it's to improve hiring, whether by making relocation less expensive or becoming more attractive to members who can't or won't relocate.
+Maybe it's to have greater resiliency in case of natural disaster, civil unrest, or any of the other calamities in your property insurance policy's fine print.
+Whatever the reason, it's a choice an organization deliberately makes.
 
-But what if it was the other way around?
-Just like organizations can default to open, they could also default to distributed.
-Sure, some activities don't lend themselves to distributed work.
-Your neighborhood soup kitchen or hair salon may be shining beacons of openness, but that work requires physical presence.
-Fire fighters and surgeons (with some inspiring technological exceptions) can't do their job from across the country.
-But why not make those the exceptional case?
+But what if history had unfolded differently, and the situation were reversed?
+
+Just as organizations can "default to open," they could also "default to distributed."
+Sure, some activities don't lend themselves ideally to distributed work.
+Your neighborhood soup kitchen or hair salon may be shining beacons of openness, but the work that occurs there requires physical co-presence.
+Fire fighters and surgeons (with some inspiring technological exceptions) can't do their jobs from across the country.
+
+But why not make *those* the exceptional cases?
+
 Let's start with the assumption that our work will be distributed and then make *centralization* the deliberate choice.
-
 Distributed workers are not necessarily working from their home or their favorite coffee shop.
 They're not necessarily working from remote reaches of the Antarctic.
-It might be that the entire team is in your organization's offices, just not the same office.
+It might be the case that the entire team is in your organization's offices—just not the same office.
 
 ## Why distributed work?
 
-Wherever they are, distributed work means meeting your organization's members where they are.
+Wherever your organization's members are are, distributed work means meeting them there.
 If you're not already convinced that defaulting to distributed is the right choice, consider the impact it has.
 Distributed work [enables your organization to be more inclusive](https://opensource.com/open-organization/19/1/remote-work-inclusivity).
-By freeing team members from geographic constraints, you show them that they're valuable—not just that they're the best you could find within a reasonable commute distance.
+By freeing team members from geographic constraints, you show them they're valuable—not just that they're the best you could find within a reasonable commute distance.
 
-And let's be clear: large organizations are already built on distributed work, whether they realize it or not.
+And let's be clear: large organizations already function on a distributed work model, whether they realize it or not.
 A company with tens of thousands employees—even if they're all on the same sprawling campus—are probably not doing most of their work face-to-face.
-In a previous job, I worked for a company where a large percentage of the employees—and almost all of the ones I ever interacted with—spent their days in a 100-plus building corporate headquarters.
+In a previous role, I worked for a company where a large percentage of the employees—and almost all of the ones I ever interacted with—spent their days in a 100-plus building corporate headquarters.
 It was basically a city unto itself.
 I worked from home, so when I made trips to headquarters, I made a concerted effort to attend meetings in person.
 
@@ -89,12 +91,11 @@ This is where where the organization reaps the benefits of remote work.
 
 ## A work in progress
 
-This book is a work in progress—what you're reading is only the first version.
+This book is a work in progress; what you're reading is only the first version.
 In the spirit of open source, we chose to release early and release often.
 As additional chapters are ready, we'll publish subsequent releases.
-Of course, future releases will also include "bug fixes".
-Typos and style corrections, of course, but also refinements of the ideas.
-We continue to learn from our experiences, each other, and you.
+And of course, those future releases will also include "bug fixes"—typos and style corrections, yes, but also refinements to ideas.
+We'll continue to learn from our experiences, each other, and you.
 
 Your contributions will make this book an even more valuable resource to future readers.
 We welcome your comments and suggestions.
