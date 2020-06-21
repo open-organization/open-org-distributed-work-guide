@@ -72,7 +72,7 @@ Just as "traditional" management practices don't always fit an open organization
 We've ordered these sections intentionally, as we've designed this book to reflect the journey that organizations undertake as they embrace distributed work.
 Seasoned practitioners will recognize that journey as one that follows [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development).
 Bruce Tuckman identified four inevitable and universal stages of group development: forming, storming, norming, and performing.
-Forming—how teams come to be in the first place—is out of the scope of this book (if you're reading this book, then we assume you've alreadyformed your team).
+Forming—how teams come to be in the first place—is out of the scope of this book (if you're reading this book, then we assume you've already formed your team).
 For distributed teams, building trust is integral to the "storming" stage of group development.
 Despite its name, storming doesn't require contentious arguments, but it *is* the stage where trust gets built.
 Sections on communication and collaboration speak to elements of the "norming" stage.
