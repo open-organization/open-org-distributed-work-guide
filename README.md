@@ -29,4 +29,5 @@ This guide offers remote, distributed teams (those working remotely for the firs
 See [CONTRIBUTING.md](https://github.com/open-organization/open-org-distributed-work-guide/blob/master/CONTRIBUTING.md) in this repository.
 
 ## Project timeline
-{coming coon}
+Release v0.9—June 30
+Release v1.0—August 15
