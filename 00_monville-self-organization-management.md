@@ -7,11 +7,17 @@ I can already imagine some of you, dear readers, frowning and thinking: "A team 
 
 As issues of distributed teamwork and management are more critical than ever in this new context, let me try to clarify why I believe it's essential to discuss designing organizational roles that won't become bottlenecks (roles that won't prevent the organization from delivering efficiently or to adapting quickly to changes).
 
-In classic organization design, we tend to think that designing boxes on an organizational chart and putting great people in charge will solve all our problems. That approach *could* work in static environments, where what you have to deliver is defined once and for all. But if your environment is continually changing, you need to adapt your value proposal to those changes. Your organization needs to be adaptable.
+In classic organization design, we tend to think that designing boxes on an organizational chart and putting great people in charge will solve all our problems.
+That approach *could* work in static environments, where what you have to deliver is defined once and for all.
+But if your environment is continually changing, you need to adapt your value proposal to those changes.
+Your organization needs to be adaptable.
 
-Let's say that you're on the path to designing "the boxes" of a new organization. On your radar you could have managers that will assume full responsibility for certain groups and team leaders with full responsibility of the teams making up those groups. Static groups, static roles, static functions.
+Let's say that you're on the path to designing "the boxes" of a new organization.
+On your radar you could have managers that will assume full responsibility for certain groups and team leaders with full responsibility of the teams making up those groups.
+Static groups, static roles, static functions.
 
-But you can't achieve a capacity for adaptability in your organization if you rely on overloaded people dealing with multiple responsibilities. I suggest an alternative: Self-organizing teams designed around roles that aren't bottlenecks, roles that team members could take either full-time or for a portion of their time.
+But you can't achieve a capacity for adaptability in your organization if you rely on overloaded people dealing with multiple responsibilities.
+I suggest an alternative: Self-organizing teams designed around roles that aren't bottlenecks, roles that team members could take either full-time or for a portion of their time.
 
 Please don't jump to the conclusion that my goal is to remove all managers and team leaders from the organization—as if self-organizing teams and management are somehow mutually exclusive.
 
@@ -26,7 +32,8 @@ The [Open Organization Definition](https://opensource.com/open-organization/reso
 - Collaboration
 - Community
 
-I've [recently discussed the importance](https://opensource.com/article/18/7/high-impact-teams) of making work visible when attempting to achieve transparency and collaboration at scale. Here, I'm more concerned with *adaptability*—creating teams without single points of failure, teams better able to adjust to changing conditions in dynamic environments.
+I've [recently discussed the importance](https://opensource.com/article/18/7/high-impact-teams) of making work visible when attempting to achieve transparency and collaboration at scale.
+Here, I'm more concerned with *adaptability*—creating teams without single points of failure, teams better able to adjust to changing conditions in dynamic environments.
 
 I agree that a team has to be managed, and I think many of the activities we see as the sole responsibility of managers or the team leaders could, in fact, be delegated directly to the team—or to team members that could effectively deliver the activities *serving* the team.
 
@@ -55,13 +62,16 @@ Let's review some of those activities:
 - supporting and developing people in the team
 - hiring people
 
-When I look at those activities, I see some that could be delegated to a system put in place by the team itself—like the distribution of work, for example. The distribution of the work can be made obvious for team members by simply making the work visible to everyone.
+When I look at those activities, I see some that could be delegated to a system put in place by the team itself—like the distribution of work, for example.
+The distribution of the work can be made obvious for team members by simply making the work visible to everyone.
 
 I also see activities that are *difficult* to move away from managers, like managing the compensation of team members (because it would require building a compensation system that's more transparent, which is difficult when you don't start from scratch due to preexisting discrepancies in people's compensation).
 
-I see activities that are focused on *users* and the *why and what* the team is delivering. On some teams with which I've worked, those activities are delegated to a team member taking, for example, the role of User Advocate or Product Owner (to use the Scrum terminology).
+I see activities that are focused on *users* and the *why and what* the team is delivering.
+On some teams with which I've worked, those activities are delegated to a team member taking, for example, the role of User Advocate or Product Owner (to use the Scrum terminology).
 
-I see activities that are focused on *how* the team is working. Those activities are delegated to a team member taking, for example, the role of Team Catalyst or Scrum Master.
+I see activities that are focused on *how* the team is working.
+Those activities are delegated to a team member taking, for example, the role of Team Catalyst or Scrum Master.
 
 In both cases, their role will be to ensure that the activities are done by the team, not necessarily to handle everything by themselves.
 
@@ -69,8 +79,19 @@ By looking at the activities in more detail, I can envision many of them being h
 
 Giving managers or team leaders the ability to consider the activities for which they're accountable and the activities they can *delegate to the team* can remove the bottlenecks and single points of failure that currently exist in some organizations.
 
-Having clarifying conversations about various roles on the team is even more critical when the team is distributed. It helps people performing the different roles understand the bigger picture—and free them to propose their help when something is going sideways.
+Having clarifying conversations about various roles on the team is even more critical when the team is distributed.
+It helps people performing the different roles understand the bigger picture—and free them to propose their help when something is going sideways.
 
-One last thing. Getting started is easy. Open a shared document online with your distributed team. Ask team members to describe what they believe team members' roles and responsibilities are. Then invite team stakeholders to contribute too. You'll see discrepencies. You'll have disagreements. Resolving them *as a team* will make the team that much better.
+One last thing.
+Getting started is easy.
+Open a shared document online with your distributed team.
+Ask team members to describe what they believe team members' roles and responsibilities are.
+Then invite team stakeholders to contribute too.
+You'll see discrepencies.
+You'll have disagreements.
+Resolving them *as a team* will make the team that much better.
 
-*Alexis Monville is building high impact sustainable organizations. Alexis is a member of the Engineering Leadership Team at Red Hat. Alexis brings more than 20 years of operations and management experience. Over the years, Alexis worked in diverse sectors, from the automotive industry, the epic Web start, IT consulting, public sector, software development, which led him to found a management and organization consulting and coaching firm.*
+*Alexis Monville is building high impact sustainable organizations.
+Alexis is a member of the Engineering Leadership Team at Red Hat.
+Alexis brings more than 20 years of operations and management experience.
+Over the years, Alexis worked in diverse sectors, from the automotive industry, the epic Web start, IT consulting, public sector, software development, which led him to found a management and organization consulting and coaching firm.*
