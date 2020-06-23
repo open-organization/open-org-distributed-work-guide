@@ -62,9 +62,11 @@ This involves not only the *technology* you use for communicating and collaborat
 
 In the fourth section, we build the community for which the first three sections lay a foundation.
 Two aspects of community are important to distributed organizations.
-**// I'm not sure what line 66 means. Can you help readers understand more specifically what you're suggesting? —BB//**
-The first is growing your organization, both in number and in effectiveness.
-It also includes growing the bonds within your organization—helping people connect when they don't get to meet in physical space.
+The first is the organization's ability to establish a sense of community among distributed teammates.
+This includes growing the bonds within your organization—helping people connect when they don't get to meet in physical space—and created a collective sense of purpose.
+Building the community in this way means you are taking the existing members and helping them be more effective.
+The second is *scaling* that community by adding new members and weaving them into the fabric of your organization.
+Building the community in this way means you have more resources available, potentially in new areas that you weren't connected to before.
 
 Lastly, we cover topics related to leading and managing distributed work teams.
 Just as "traditional" management practices don't always fit an open organization model, distributed work requires a change in management approaches.
