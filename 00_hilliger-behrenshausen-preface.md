@@ -14,3 +14,5 @@ That's why we actually prefer the term "distributed teamwork" to describe the ch
 Indeed, to work successfully in virtual environments, we have to pay special attention to the humans on the other side of the screen. We don't just need to "be connected"; we need to be *building relationships* and *creating trust* in new and challenging ways. And without a doubt, we need to balance constant connection with more intentional inclusivity.
 
 This book will help readers understand how building teams in distributed environments is inherently different. It will provide tips and tricks, resources, and lessons, all couched in the five principles that make open organizations so successful: transparency, inclusivity, collaboration, community, and adaptability. We hope it will help you empower you and your colleagues to build processes and cultivate cultures that help everyone in the organization to not only cope but *thrive*—no matter how close, or how far apart, they happen to be.
+
+_June 2020_
