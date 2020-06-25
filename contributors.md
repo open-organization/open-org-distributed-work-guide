@@ -7,6 +7,8 @@ Ben Cotton
 
 Isabel Drost-Fromm
 
+Laura Hilliger is a writer, educator and technologist. She’s a multimedia designer and developer, a technical liaison, a project manager, a conceptual architect, an open advocate who is happiest in collaborative environments. She’s a director of [We Are Open Co-op](https://weareopen.coop), an Ambassador for Opensource.com, is helping to open up Greenpeace, and a Mozilla alum. Find her on Twitter and Mastodon as @epilepticrabbit.
+
 Anupama Jha is an internal communications strategist at Red Hat and is based out of Pune, India. She pursued communications and public relations as her academic specializations, and is involved in volunteering at various NPOs, which helped her to develop leadership skills, become a world citizen, and empower others.
 
 Guy Martin is the Executive Director of OASIS Open, an internationally recognized standards development and open source projects consortium. He is responsible for the organization's overall operation, in addition to helping define its cohesive strategies and policies to deliver the best value to its members.
