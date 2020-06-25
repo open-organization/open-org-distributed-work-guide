@@ -145,12 +145,12 @@ The goal is to reach a shared understanding of the problem and sketch possible s
 2. Assuming that participants were able to arrive at an agreeable solution during that discussion, the team should then write a formal proposal and post it as a pull request.
 The goal here is to let people participate in the solution design process.
 Some key aspects of this phase are:
-   1. Explicitly inviting participation from potential stakeholders are not yet aware of the discussion
+   1. Explicitly inviting participation from potential stakeholders who are not yet aware of the discussion
    2. Having all relevant communication tracked, so people who join the discussion later can follow what was already discussed
-   3. If the case of competing alternative solutions, documenting why those alternatives were not implemented or pursued
+   3. In the case of competing alternative solutions, documenting why those alternatives were not implemented or pursued
    4. Describing what the solution should cover—its advantages and implications, and a description of how the solution addresses the original problem (not to mention the limits of the solution)
    5. To make communication clearer (and in cases where the goal is to create a cross-team standard for solving a specific technical problem), using specific words and phrases endorsed by the Internet Engineering Task Force when specifying characteristics
-3. If the proposal meets no veto (and any veto must be accompanied by a detailed explanation), and if at least two senior contributors explicitly vote in favor of the proposed solution, it can be counted accepted, is merged, and gets promoted across all teams affected going forward.
+3. If the proposal meets no veto (and any veto must be accompanied by a detailed explanation), and if at least two senior contributors explicitly vote in favor of the proposed solution, it can be counted as accepted, is merged, and gets promoted across all teams affected going forward.
 The intention for those senior contributors is to vote independently of their local context in favor of what, in their perspective, is best for the entire platform (not unlike at The Apache Software Foundation, where committers are expected to act on behalf of the project instead of their individual employer).
 
 This process is advantageous because everyone can participate.
