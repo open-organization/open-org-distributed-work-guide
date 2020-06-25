@@ -1,4 +1,4 @@
-## Preface
+# Preface
 Laura Hilliger & Bryan Behrenshausen
 
 We're all working in unprecedented times. For months, the novel coronavirus SARS-CoV-2 has swept steadily across the globe. Concerns over the disease it causes, COVID-19, have spurred shifts—both subtle and seismic—in seemingly all facets of everyday life. Phrases like "contact tracing," "social distancing," and "stay at home order" are common parlance. And organizations everywhere are grappling with the unavoidable consequences of a world that increasingly discourages side-by-side collaborations.

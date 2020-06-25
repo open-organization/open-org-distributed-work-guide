@@ -1,4 +1,4 @@
-## Could your team be managing itself?
+# Could your team be managing itself?
 Alexis Monville
 
 Now that many people are working from home and their teams are distributed across the world in what seems to be a sort of "new normal," managers have an important question to answer: Could your team be managing itself?
@@ -23,7 +23,7 @@ Please don't jump to the conclusion that my goal is to remove all managers and t
 
 Not exactly.
 
-### Managing the self-organizing team
+## Managing the self-organizing team
 The [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition) lists five characteristics as the basic conditions for an open organizational culture:
 
 - Transparency

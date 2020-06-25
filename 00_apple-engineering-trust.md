@@ -1,4 +1,4 @@
-## Improving teamwork by engineering trust
+# Improving teamwork by engineering trust
 Lauri Apple
 
 Intentional relationship design can help us more clearly and effectively declare our intentions in open organizations that are working remotely.
@@ -16,7 +16,7 @@ Doing so builds trust and common understanding that makes talking about actual w
 
 In this chapter, I'll explain how intentionally designing our relationships can enhance communication and connection in our open teams, leading to more fulfilling relationships and greater flow.
 
-### Becoming intentional
+## Becoming intentional
 According to the University of Illinois-Chicago's [Intentional Relationship Model Clearinghouse](https://irm.ahslabs.uic.edu), a nonprofit organization related to the [Intentional Relationship Model](http://irm.ahslabs.uic.edu/what-is-the-irm/), the IRM is a concept that "defines how a client and therapist each contribute to the unique interpersonal dynamic that becomes the therapeutic relationship." In the therapeutic context, the IRM emphasizes mindful empathy, self-awareness, and a growth mindset—all terms that have become increasingly familiar to many of us in the tech space.
 In a broader organizational context, the concept offers a vocabulary and behavioral framework for more explicitly declaring our approaches to work, our personal and professional goals, and our interpersonal idiosyncrasies—making them more transparent and, as a result, more easily addressible.
 
@@ -38,7 +38,7 @@ Being upfront about these topics has reduced his managerial overhead, he says.
 - Eric McNulty, director of research for Harvard's National Preparedness Leadership Initiative, [solved a challenging situation](https://www.oreilly.com/ideas/are-you-intentionally-designing-your-leadership-relationships) with a project manager to achieve the right balance of detail in reports.
 He notes that former Campbell's Soup CEO Doug Conant has adopted the practice of "[Declaring Yourself](https://conantleadership.com/a-highly-effective-leadership-habit-for-building-relationships/)" in one-hour sessions with brand-new collaborators.
 
-### Getting to know you(rself)
+## Getting to know you(rself)
 Designing relationships intentionally is a multi-step process.
 For it to work most effectively, we must first understand ourselves—our strengths, weaknesses, annoying habits, and communication patterns.
 
