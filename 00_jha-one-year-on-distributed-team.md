@@ -1,5 +1,5 @@
 # What I learned about working openly after one year on a distributed team
-*Anupama Jha*
+Anupama Jha
 
 I work on a communications team that's part of an organization with an open culture, one where associates have the freedom to choose how, where, and when they work best.
 Working in this role has been my dream for a long time, and it's my pleasure to work with such a keen and passionate group of people.
@@ -130,6 +130,3 @@ Absolutely not.
 
 Irrespective of location, it's our virtual *team* who thinks, acts, and works exactly how we are supposed to—without being in the same room.
 What's relevant is that every single person on the team knows why they're there, has a clear direction of their role and responsibilities, has the tools required to steer them in the right direction, and has the full backing and support of everyone else.
-
-*Anupama Jha is an internal communications strategist at Red Hat and is based out of Pune, India.
-She pursued communications and public relations as her academic specializations, and is involved in volunteering at various NPOs, which helped her to develop leadership skills, become a world citizen, and empower others.*

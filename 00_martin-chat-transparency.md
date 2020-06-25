@@ -114,6 +114,3 @@ There is a fine balance point between an anarchy, and a thriving community, and 
 
 Communities are personal.
 Tools come and go, but keeping your community at the forefront of your push to transparency is the key to success.
-
-*Guy Martin is the Executive Director of OASIS Open, an internationally recognized standards development and open source projects consortium.
-He is responsible for the organization’s overall operation, in addition to helping define its cohesive strategies and policies to deliver the best value to its members.*

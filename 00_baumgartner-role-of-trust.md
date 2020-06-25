@@ -74,6 +74,3 @@ Most members of our core team have been with the company for more than eight yea
 Major competitors have pursued many of them, presumably offering more money and better tangible benefits.
 From what I hear, however, those interviews typically last until they ask about open practices and policies—like remote work and flexible hours.
 Our open organization always beats what they have to offer.
-
-*Peter Baumgartner is the founder at Lincoln Loop, a web agency specializing in the open source Django web framework.
-He is constantly learning and is well-versed in many technical disciplines including DevOps, scaling, back-end, and front-end development.*

@@ -1,4 +1,6 @@
 # Introduction
+Ben Cotton
+
 Why might an organization be interested in distributed work?
 Listing individual reasons could fill this entire guide.
 Most organizations that choose a distributed work model don't do so for idealistic reasons; they do it because they see it as the best way to meet some organizational need.

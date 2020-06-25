@@ -1,5 +1,5 @@
 # Becoming a remote-first company by practicing openness
-_Isabel Drost-Fromm_
+Isabel Drost-Fromm
 
 As organizations grow, they often enter a phase in which internal teams become more independent from each other.
 But when they do, they also begin repeating work that has been done elsewhere.

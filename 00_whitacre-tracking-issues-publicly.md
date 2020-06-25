@@ -86,6 +86,3 @@ If you reach this point, you will be far along in using a public issue tracker t
 Those are some of the practices that we've found most helpful at Gratipay in using our issue tracker to "engage participative communities both inside and out," as Jim Whitehurst puts it in *The Open Organization*.
 
 That said, we're always learning.
-
-*Chad Whitacre was the founder of Gratipay, a funding platform for open source software developers and other creators.
-Gratipay's open company vision lives on through a successful fork, Liberapay.*

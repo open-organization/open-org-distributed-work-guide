@@ -1,4 +1,6 @@
 # Improving teamwork by engineering trust
+Lauri Apple
+
 Intentional relationship design can help us more clearly and effectively declare our intentions in open organizations that are working remotely.
 
 Even in [highly mature open organizations](https://opensource.com/open-organization/17/7/introducing-open-org-maturity-model), where we're doing our best to be collaborative, inclusive, and transparent, we can fail to reach alignment or common understanding.

@@ -44,7 +44,3 @@ You'll also find recordings and notes from our calls on the [Movement-Building f
 
 It's crucial that we improve how we connect with each other online and take what we learn with us into a more humane and participatory digital future.
 That better future is one that we can only discover together.
-
-_Chad Sansing works on leadership and training, as well as facilitator and newcomer support, for MozFest.
-When he's not at work, you can find him gaming, reading, or enjoying time with his family.
-Prior to joining Mozilla, he taught middle school for 14 years._

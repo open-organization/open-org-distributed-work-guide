@@ -34,6 +34,7 @@
 - How managers can support distributed teams—Angela Roberston (Microsoft)
 
 ## Back Matter
+- About the contributors
 - Appendicies
 - The Open Organization Definition
 

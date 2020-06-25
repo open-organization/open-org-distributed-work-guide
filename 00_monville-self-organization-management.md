@@ -90,8 +90,3 @@ Then invite team stakeholders to contribute too.
 You'll see discrepencies.
 You'll have disagreements.
 Resolving them *as a team* will make the team that much better.
-
-*Alexis Monville is building high impact sustainable organizations.
-Alexis is a member of the Engineering Leadership Team at Red Hat.
-Alexis brings more than 20 years of operations and management experience.
-Over the years, Alexis worked in diverse sectors, from the automotive industry, the epic Web start, IT consulting, public sector, software development, which led him to found a management and organization consulting and coaching firm.*
