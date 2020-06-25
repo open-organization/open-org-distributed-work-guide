@@ -1,4 +1,4 @@
-# Becoming a remote-first company by practicing openness
+## Becoming a remote-first company by practicing openness
 Isabel Drost-Fromm
 
 As organizations grow, they often enter a phase in which internal teams become more independent from each other.
@@ -20,7 +20,7 @@ I'll also explain how colleagues were able to move to asynchronous communication
 I'll describe how we were able to clarify role definitions to help re-shape teams that had grown substantially, so we could map a mixed monolithic/micro-service architecture more easily to our team's structure.
 And I will recount how the new style of working helped us embrace open decision-making practices.
 
-## Open practices at Europace
+### Open practices at Europace
 InnerSource, according to InnerSource Commons, "takes the lessons learned from developing open source software and applies them to the way companies develop software internally." It "can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world." In order to achieve these goals, InnerSource works with concepts that are fairly similar to the ways open source projects operate—that is, teams share projects internally and collaborate on them like open source communities do.
 
 By embracing InnerSource, teams do more than share code internally, however.
@@ -51,7 +51,7 @@ We subsequently shared everything we learned with the rest of the company—and 
 
 As a result, we were able to alleviate many of our pain points.
 
-## Dealing with cross-team dependencies
+### Dealing with cross-team dependencies
 What is so particularly difficult about scaling a team that initially built one common platform?
 
 Ideally, in order to move quickly, teams should operate independently from each other.
@@ -90,7 +90,7 @@ They need to understand how to formulate a pull request in a way that's easy to 
 And when coming from a co-located, "everyone is in the office and communicates face-to-face" environment, they'll need to learn to provide their feedback in writing—a medium in which many of the visual cues (like gestures) are not available.
 While seemingly simple, making expectations explicit—for instance, when it comes to review turnaround times—does help eliminate frustration.
 
-## Changing team member roles
+### Changing team member roles
 Every team reaches a point where some of its contributors change teams, accept formal leadership positions, or move to other roles that pivot their focus away from technical contributions.
 Often, even after taking extensive handover measures, a development team will experience a loss of knowledge after someone has moved on.
 Adopting an InnerSource model like the one above has a critical side effect: helping teams deal with this problem.
@@ -99,7 +99,7 @@ As all communication happens in writing by default, it's recorded and visible to
 When questions arise, answering them becomes much easier when the team can pull in someone else without having to recall and repeat the entire conversation that has unfolded up until that point.
 
 
-## How does that help with colleagues changing roles?
+### How does that help with colleagues changing roles?
 Conventional teams often rely on techniques like "pair programming" or "mob programming" to help junior engineers tap into knowledge from other team members.
 Techniques like those are great tools to facilitate knowledge sharing and collaborative work.
 But they have a significant disadvantage that makes them less attractive when practiced remotely: all the communication that occurs during pair or mob programming sessions ephemeral—so anyone joining later doesn't have a chance to follow the design process or the arguments and decisions that lead to a final solution.
@@ -113,7 +113,7 @@ The focus on sharing progress early means that developers can work on solutions 
 
 And as a side-effect of relying on asynchronous conversations, communication also becomes more transparent across time zones.
 
-## Making decisions asynchronously
+### Making decisions asynchronously
 If we look closely at the way InnerSource thinking suggests dealing with cross-team dependencies and the way it helps team members move out of pure development roles—and if we examine some case studies—one ingredient for both successful InnerSource and successful open source becomes clear: A preference for communication that allows for asynchronous participation helps make the project accessible to more contributors.
 
 Customarily, asynchronous communication stresses written over spoken communication—and collecting written messages in a permanent, searchable archive in which messages can be referenced through stable links.
@@ -124,7 +124,7 @@ At The Apache Software Foundation, for example, even board-level decision-making
 Similarly at Europace, we realized that we can use what we learned in software engineering projects and apply that knowledge to cases like coordinating architectural decision-making across multiple departments.
 Applying language and definitions from InnerSource projects at that level seemed like a hack, so instead we adopted a simplified version of the Open Decision Framework for those cases.
 
-## Setting cross-team standards and best practices in the open
+### Setting cross-team standards and best practices in the open
 In small organizations (even those with more than one team) system architecture tends to be fairly coherent.
 Cross-cutting concerns tend to get addressed when team members choose a technology to solve a problem.
 API design tends to be coherent, as everyone involved knows the general design patterns in use.
@@ -159,7 +159,7 @@ Only items specifically requiring face-to-face discussions prompt face-to-face m
 Participants can work on developing solutions on their own time.
 And people arriving in discussions at a later stage still have a chance of following what happened.
 
-## Permanently remote-first
+### Permanently remote-first
 All of the steps above helped our team at Europace normalize asynchronous communication as part of team culture.
 So in 2020, when the COVID-19 pandemic required all of Europace AG to work remotely, this groundwork was already in place—making it easier for colleagues who wanted to work fully remote to do so.
 Indeed, the entire organization was able to pivot to remote work in a matter of days.
