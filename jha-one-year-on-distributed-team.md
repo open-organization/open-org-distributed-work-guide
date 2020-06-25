@@ -1,4 +1,4 @@
-# What I learned about working openly after one year on a distributed team
+## What I learned about working openly after one year on a distributed team
 Anupama Jha
 
 I work on a communications team that's part of an organization with an open culture, one where associates have the freedom to choose how, where, and when they work best.
@@ -18,7 +18,7 @@ Sometimes, I think we're so focused on making changes on a broad, organizational
 Fortunately, open organizations have for some time experimented with methods for building rapport and fostering collaboration across distributed teams.
 I'll discuss several here.
 
-## Facing doubts
+### Facing doubts
 Starting out on a distributed team might feel strange.
 It might even feel isolating, as you won't always have an easy way to get to know everyone on your team quickly.
 I know I felt it initially.
@@ -40,7 +40,7 @@ One of the most important lessons is also one that helped dispel my self-doubt: 
 Rather than guarding your insecurities, share your doubts and seek suggestions.
 The sooner you can let go, the sooner you can start thinking about the new problems you must solve.
 
-## Communication management
+### Communication management
 Distributed teams won't work without the proper resources, technologies, and support.
 Thanks to the growing popularity of open source applications and instant messaging tools that streamline communication, collaborating online is easier.
 These technologies help bridge distances and create a workplace that supports associates working remotely.
@@ -76,7 +76,7 @@ This can help your team develop its bond.
 
 In short, having a good communication culture is key for a successful distributed team and an important factor in team productivity, whether your team is remote or not.
 
-## Visualize the work
+### Visualize the work
 One of the biggest hurdles to overcome while working in a distributed way is team members' lack of immediate visibility into what others are working on.
 To combat this challenge, you'll need to ensure you have a clear view of everything your team (and individual teammates) are doing.
 And you'll need to understand what *every team member does*.
@@ -97,7 +97,7 @@ With their support, I was able to quickly adopt the team's objectives and its ov
 I was able to embrace open culture and implement its principles in my geography.
 My advice here: Learn how your work fits into your team's charter, understand what you can do to improve the overall picture, and make sure you've recorded and shared this with your team.
 
-## Avoid being burned out
+### Avoid being burned out
 Before working on a distributed team full time, I worked as an intern for an advertising agency in a "creative under pressure" environment.
 For me, the environment was stressful; I lived constantly being chased by deadlines.
 I was working a lot of hours, but I wasn't really enjoying what I was doing.
@@ -118,7 +118,7 @@ Having a "hard stop" is important.
 Flexibility and work-life balance are benefits of working on a distributed team.
 But you'll need to be the one to enforce that balance.
 
-## Looking forward
+### Looking forward
 Everyone on our distributed team has our own quirks, our own responsibilities, our own skill sets, our own roles—but in the end, we're a team, one that embraces open source culture and influences other associates across our entire organization.
 My teammates are based in different countries.
 Every week, we're able to share a problem, share success, share a laugh, and share a story as a team.

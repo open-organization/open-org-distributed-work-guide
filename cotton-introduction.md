@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 Ben Cotton
 
 Why might an organization be interested in distributed work?
@@ -20,7 +20,7 @@ But why not make *those* the exceptional cases?
 Let's start with the assumption that our work will be distributed—and then make *centralization* the deliberate choice.
 We might soon discover that distributed work is the rule, not the exception.
 
-## Why distributed work?
+### Why distributed work?
 After all, "distributed workers" aren't necessarily working from their homes or their favorite coffee shops.
 They're not necessarily working from the remote reaches of the Antarctic.
 Maybe your entire team is in your organization's offices—just not the same office.
@@ -41,7 +41,7 @@ Distributed work [enables your organization to be more inclusive](https://openso
 By freeing team members from geographic constraints, you show them they're valuable—not just that they're the best you could find within a reasonable commute distance.
 So if we're already doing *de facto* distributed work, why could the remote employee experience not be better?
 
-## Why this book?
+### Why this book?
 The idea that organizations are already reliant on distributed work processes and practice—even if they aren't consciously acknowledging it—is partly of why we wrote this book.
 Of course, we also recognize  the organization that truly isn't distributed but wants (or needs) to be.
 And we acknowledge the organization that has embraced distributed work but wants to be better at it.
@@ -84,7 +84,7 @@ As the name indicates, this is where the team establishes and accepts norms.
 And the last two sections reflect activities that occur in Tuckman's "performing" stage.
 This is where where the organization truly begins reaping the benefits of remote work.
 
-## A work in progress
+### A work in progress
 This book is a work in progress; what you're reading is only the first version.
 In the spirit of open source, we chose to release early and release often.
 As additional chapters are ready, we'll publish subsequent releases.

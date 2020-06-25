@@ -1,4 +1,4 @@
-# Distributed teams benefit when they track issues publicly
+## Distributed teams benefit when they track issues publicly
 Chad Whitacre
 
 A public issue tracker is a vital communication tool for an open organization, because there's no better way to be transparent and inclusive than to conduct your work in public channels.
@@ -14,27 +14,27 @@ Whether you use GitHub, or another option, such as Jira, GitLab, or Trello, an i
 It is also crucial for converting outsiders into colleagues, one of the hallmarks of an open organization.
 How does that work? I'm glad you asked!
 
-## Best practices for using an issue tracker
+### Best practices for using an issue tracker
 
 The following best practices for using a public issue tracker to convert outsiders into colleagues are based on our experience at [Gratipay](https://gratipay.com/) over the past five years.
 We help companies and others pay for open source, and we love collaborating with our community using our issue trackers.
 Here's what we've learned.
 
-### 0. Prioritize privacy
+#### 0. Prioritize privacy
 It may seem like an odd place to start, talking about privacy in a post about public issue trackers.
 But we must remember that [openness is not an end in itself](https://opensource.com/open-organization/16/9/openness-means-to-what-end), and that any genuine and true openness is only ever built on a solid foundation of safety and consent.
 Never post information publicly that customers or other third parties have given you privately, unless you explicitly ask them and they explicitly agree to it.
 Adopt a policy and train your people.
 Okay! Now that we're clear on that, let's proceed.
 
-### 1. Default to deciding in public
+#### 1. Default to deciding in public
 If you make decisions in private, you're losing out on the benefits of running an open organization, such as surfacing diverse ideas, recruiting motivated talent, and realizing greater accountability.
 Even if your full-time employees are the only ones using your public issue tracker at first, do it anyway.
 Avoid the temptation to treat your public issue tracker as a second-class citizen.
 If you have a conversation in the office, post a summary on the public issue tracker, and give your community time to respond before finalizing the decision.
 This is the first step towards using your issue tracker to unlock the power of open for your organization: if it's not in the issue tracker, it didn't happen!
 
-### 2. Cross-link to other tools
+#### 2. Cross-link to other tools
 It's no secret that many of us love IRC and Slack.
 Or perhaps your organization already uses Trello, but you'd like to start using GitHub as well.
 No problem! It's easy to drop a link to a Trello card in a GitHub issue, and vice versa.
@@ -44,19 +44,19 @@ That said, you should treat conversations in private Slack or other private chan
 In other words, be sure to summarize the conversation on the public issue tracker.
 See above: whether offline or online, if it's not in the issue tracker, it didn't happen!
 
-### 3. Drive conversations to your tracker
+#### 3. Drive conversations to your tracker
 Social media is great for getting lots of feedback quickly, and especially for discovering problems, but it's not the place to solve them.
 Issue trackers make room for deeper conversations and root-cause analysis.
 More importantly, they are optimized for getting stuff done rather than for infinite scrolling.
 Clicking that "Close" button when an issue is resolved feels really good! Now that you have a public issue tracker as your primary venue for work, you can start inviting outsiders that engage with you on social media to pursue the conversation further in the tracker.
 Something as simple as, "Thanks for the feedback! Sounds similar to (link to public issue)?" can go a long way towards communicating to outsiders that your organization has nothing to hide, and welcomes their engagement.
 
-### 4. Set up a "meta" tracker
+#### 4. Set up a "meta" tracker
 Starting out, it's natural that your issue tracker will be focused on your product.
 When you're ready to take open to the next level, consider setting up an issue tracker about your organization itself.
 At Gratipay, we're willing to discuss just about any aspect of our organization, from [our budget](https://github.com/gratipay/inside.gratipay.com/issues/928) to [our legal structure](https://github.com/gratipay/inside.gratipay.com/issues/72) to [our name](https://github.com/gratipay/inside.gratipay.com/issues/73), in a public issue tracker we call "Inside Gratipay." Yes, this can get a little chaotic at times—renaming the organization was a particularly fierce bikeshed!—but for us the benefits in terms of community engagement are worth it.
 
-### 5. Use your meta tracker for onboarding
+#### 5. Use your meta tracker for onboarding
 Once you have a meta issue tracker, a new onboarding process suggests itself: invite potential colleagues to create their own onboarding ticket.
 If they've never used your particular issue tracker before, it will be a great chance for them to learn.
 Registering an account and filing an issue should be pretty easy (if it's not, consider switching tools!).
@@ -67,7 +67,7 @@ Of course, you'll want to make sure that you respond quickly to their questions,
 This is also a great way to document the access permissions to various systems that you end up granting to this person.
 Crucially, this can start to happen [before they're even hired](https://opensource.com/open-organization/16/5/employees-let-them-hire-themselves).
 
-### 6. Radar projects
+#### 6. Radar projects
 Most issue trackers include some way to organize and prioritize tasks.
 GitHub, for example, has [milestones](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/) and [projects](https://help.github.com/articles/about-projects/).
 These are generally intended to align work priorities across members of your organization.
@@ -76,7 +76,7 @@ We've found this to offer a different value than assigning issues to particular 
 I may care about an issue that someone else is actively working on, or I may be potentially interested in starting something but happy to let someone else claim it first.
 Having my own project space to organize my view of the organization's work is a powerful way to communicate with my colleagues about "what's on my radar."
 
-### 7. Use bots to automate tasks
+#### 7. Use bots to automate tasks
 Eventually, you may find that certain tasks keep popping up again and again.
 That's a sign that automation can streamline your workflow.
 At Gratipay, we [built](https://github.com/gratipay/bot) a [bot](https://github.com/gratipay-bot) to help us with certain recurring tasks.

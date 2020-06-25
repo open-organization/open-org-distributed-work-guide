@@ -1,4 +1,4 @@
-# The importance of trust on distributed teams
+## The importance of trust on distributed teams
 Peter Baumgartner
 
 Lincoln Loop is an open organization in many ways.
@@ -20,7 +20,7 @@ But that attitude is a direct result of outdated command-and-control-style of ma
 And its effects on creativity and productivity are both negative and profound.
 At Lincoln Loop, we've learned how placing a high value on organizational trust makes for a happier, more productive workplace.
 
-## Productivity drains
+### Productivity drains
 Managers who don't trust employees frequently use rules and regulations to box those employees in—the idea being, "with enough rules, there won't be any leeway for employees to make mistakes or cause problems." They try to regulate their way to efficiency.
 
 But when you try to control people with a "my way or the highway" approach, you stifle creativity and often productivity.
@@ -36,7 +36,7 @@ Dee Hock, the innovative founder of Visa, [said it well](https://books.google.co
 > To the degree that you hold purpose and principles in common among you, you can dispense with command and control.
 > People will know how to behave in accordance with them, and they'll do it in thousands of unimaginable, creative ways.
 
-## Morale killers
+### Morale killers
 Excessive workplace rules are so commonplace that we've become complacent about them.
 We don't look at the emotional effect they're having on people.
 
@@ -47,7 +47,7 @@ So why are we complacent with it in the workplace?
 
 When you treat your employees like children, don't be surprised if you also have issues with morale—people only doing the bare minimum and counting down the minutes until the end of the day.
 
-## Reversing the trend
+### Reversing the trend
 The bottom line, though, is that distrust breeds more distrust.
 When management communicates a lack of trust to employees, those employees will reciprocate with a lack of trust for management.
 When this relationship becomes adversarial, the organization breaks down.
