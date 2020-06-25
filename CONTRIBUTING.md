@@ -1,5 +1,4 @@
 # Contributing
-
 Ready to make a contribution? Great! Follow these steps:
 
 1. **Determine what you'd like to contribute.** We're especially interested in experiences that help teams understand how embracing open principles can help them work better when they're distributed—and step-by-step exercises and best practices that help them put those principles into action. Review the [working table of contents](https://github.com/open-organization/open-org-distributed-work-guide/blob/master/contents.md) to get a sense of what's in the works.

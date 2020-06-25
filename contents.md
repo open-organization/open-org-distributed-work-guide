@@ -37,4 +37,3 @@
 - About the contributors
 - Appendicies
 - The Open Organization Definition
-

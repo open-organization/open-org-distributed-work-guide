@@ -1,5 +1,4 @@
 # The Open Organization Guide to Distributed Teamwork
-(Working title!)  
 A community-produced guide to open principles and practices that enhance distributed, remote teamwork
 
 ## About the guide

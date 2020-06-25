@@ -1,4 +1,4 @@
-## About the contributors
+# About the contributors
 Peter Baumgartner is the founder at Lincoln Loop, a web agency specializing in the open source Django web framework. He is constantly learning and is well-versed in many technical disciplines including DevOps, scaling, back-end, and front-end development.
 
 Bryan Behrenshausen
