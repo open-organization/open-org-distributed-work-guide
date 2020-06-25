@@ -37,7 +37,7 @@ We just never acknowledged that.
 
 Wherever your organization's members are, distributed work means meeting them there.
 If you're not already convinced that defaulting to distributed is the right choice, consider the impact it has.
-Distributed work enables your organization to be more inclusive[^1].
+Distributed work [enables your organization to be more inclusive](https://opensource.com/open-organization/19/1/remote-work-inclusivity).
 By freeing team members from geographic constraints, you show them they're valuable—not just that they're the best you could find within a reasonable commute distance.
 So if we're already doing *de facto* distributed work, why could the remote employee experience not be better?
 
@@ -74,7 +74,7 @@ Lastly, we cover topics related to leading and managing distributed work teams.
 Just as "traditional" management practices don't always fit an open organization model, distributed work requires a change in management approaches.
 
 We've ordered these sections intentionally, as we've designed this book to reflect the journey that organizations undertake as they embrace distributed work.
-Seasoned practitioners will recognize that journey as one that follows Tuckman's stages of group development[^2].
+Seasoned practitioners will recognize that journey as one that follows [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development).
 Bruce Tuckman identified four inevitable and universal stages of group development: forming, storming, norming, and performing.
 Forming—how teams come to be in the first place—is out of the scope of this book (if you're reading this book, then we assume you've already formed your team).
 For distributed teams, building trust is integral to the "storming" stage of group development.
@@ -96,6 +96,3 @@ We welcome your comments and suggestions.
 Let us know what's missing.
 What has worked, and what hasn't worked as your organization learns to embrace distributed work?
 Development is happening on [GitHub](https://github.com/open-organization/open-org-distributed-work-guide), so you can see the work as it occurs and provide us with your feedback—or, even better, your own contribution.
-
-[^1]: https://opensource.com/open-organization/19/1/remote-work-inclusivity
-[^2]: https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
