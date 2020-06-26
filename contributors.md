@@ -11,7 +11,7 @@ Laura Hilliger is a writer, educator and technologist. She’s a multimedia desi
 
 Anupama Jha is an internal communications strategist at Red Hat and is based out of Pune, India. She pursued communications and public relations as her academic specializations, and is involved in volunteering at various NPOs, which helped her to develop leadership skills, become a world citizen, and empower others.
 
-Guy Martin is the Executive Director of OASIS Open, an internationally recognized standards development and open source projects consortium. He is responsible for the organization's overall operation, in addition to helping define its cohesive strategies and policies to deliver the best value to its members.
+Guy Martin is the Executive Director of OASIS Open, an internationally-recognized standards development and open source projects consortium. He is responsible for the organization's overall operation, in addition to helping define its cohesive strategies and policies to deliver the best value to its members. He is also a former leader of open source program offices at Motorola, Red Hat, Samsung, and Autodesk. Find him on Twitter as @guyma.
 
 Alexis Monville is building high impact sustainable organizations. Alexis is a member of the Engineering Leadership Team at Red Hat. Alexis brings more than 20 years of operations and management experience. Over the years, Alexis worked in diverse sectors, from the automotive industry, the epic Web start, IT consulting, public sector, software development, which led him to found a management and organization consulting and coaching firm.
 
