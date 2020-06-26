@@ -38,11 +38,12 @@ The platform links products and services of financial distributors, banks, build
 The Europace Marketplace has been successfully established in the German financing market since 1999 and offers distributors the best conditions to successfully and independently advise consumers on real estate financing and installment loans.
 
 Back in 2017, the Europace teams faced multiple challenges:
-* At a cross-team level, working on a common platform while achieving full team autonomy wasn't possible.
-* Former technical contributors moved to leadership roles.
-* Cross-team coordination that was easily and informally possible during early stages of organizational growth became infeasible as the organization continued growing.
-* Focusing primarily on team autonomy led to a lack of alignment which in turn meant that multiple solutions were developed for similar problems.
-* When teams started to grow beyond their initial "pizza-size" structure, communication overhead started to increase.
+
+- At a cross-team level, working on a common platform while achieving full team autonomy wasn't possible.
+- Former technical contributors moved to leadership roles.
+- Cross-team coordination that was easily and informally possible during early stages of organizational growth became infeasible as the organization continued growing.
+- Focusing primarily on team autonomy led to a lack of alignment which in turn meant that multiple solutions were developed for similar problems.
+- When teams started to grow beyond their initial "pizza-size" structure, communication overhead started to increase.
 
 In order to tackle the issues we were faced with at Europace  we initiated an iterative process to adjust collaboration practices.
 In each iteration, one team selected one of it's most pressing issues to address.
