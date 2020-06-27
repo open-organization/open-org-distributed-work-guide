@@ -6,7 +6,7 @@ Working in this role has been my dream for a long time, and it's my pleasure to 
 And it's the first time I'm working on a fully distributed team, one spread across continents.
 
 I've been doing it for a year now, and I can see why distributed teams (and distributed teamwork) are becoming increasingly popular: they often lead to more productive contributors and organizations, especially when people are primarily working by themselves.
-I also understand firsthand the challenges these teams present: ensuring important details don't getoverlooked because of communication nuances, sustaining motivation, keeping up-to-date on work priorities and in sync with teammates, etc.
+I also understand firsthand the challenges these teams present: ensuring important details don't get overlooked because of communication nuances, sustaining motivation, keeping up-to-date on work priorities and in sync with teammates, etc.
 
 But the biggest challenges lie in communication and collaboration.
 Luckily, open organizations excel at addressing these issues.
