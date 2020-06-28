@@ -1,13 +1,13 @@
 # About the contributors
 Peter Baumgartner is the founder at Lincoln Loop, a web agency specializing in the open source Django web framework. He is constantly learning and is well-versed in many technical disciplines including DevOps, scaling, back-end, and front-end development.
 
-Bryan Behrenshausen
+Bryan Behrenshausen is a community architect in the Open Source Program Office at Red Hat. He assists the Open Organization project and community, manages the Open Organization section of Opensource.com, and helps maintain the *Open Organization* book series.
 
 Ben Cotton
 
 Isabel Drost-Fromm
 
-Laura Hilliger is a writer, educator and technologist. She’s a multimedia designer and developer, a technical liaison, a project manager, a conceptual architect, an open advocate who is happiest in collaborative environments. She’s a director of [We Are Open Co-op](https://weareopen.coop), an Ambassador for Opensource.com, is helping to open up Greenpeace, and a Mozilla alum. Find her on Twitter and Mastodon as @epilepticrabbit.
+Laura Hilliger is a writer, educator and technologist. She’s a multimedia designer and developer, a technical liaison, a project manager, a conceptual architect, an open advocate who is happiest in collaborative environments. She's a director of We Are Open Co-op, an Ambassador for Opensource.com, is helping to open up Greenpeace, and a Mozilla alum. Find her on Twitter and Mastodon as @epilepticrabbit.
 
 Anupama Jha is an internal communications strategist at Red Hat and is based out of Pune, India. She pursued communications and public relations as her academic specializations, and is involved in volunteering at various NPOs, which helped her to develop leadership skills, become a world citizen, and empower others.
 
