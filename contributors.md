@@ -3,7 +3,10 @@ Peter Baumgartner is the founder at Lincoln Loop, a web agency specializing in t
 
 Bryan Behrenshausen is a community architect in the Open Source Program Office at Red Hat. He assists the Open Organization project and community, manages the Open Organization section of Opensource.com, and helps maintain the *Open Organization* book series.
 
-Ben Cotton
+Ben Cotton is a meteorologist by training, but weather makes a great hobby.
+Ben works as a the Fedora Program Manager at Red Hat.
+He's an Open Organization Ambassador, an Opensource.com Correspondent, and a general opiner on technology.
+Ben produces hot takes on Twitter as @FunnelFiasco.
 
 Isabel Drost-Fromm
 
