@@ -73,6 +73,7 @@ As a result, teams are much more fluent compared to traditional organizations.
 
 At Europace, then, we made several attempts to come up with a software architecture modular enough to allow teams to operate independently.
 Thinking in roles and patterns common to InnerSource projects helped us alleviate this problem:
+
 * The team providing a dependency is treated as the "host team, often made up of what InnerSource practitioners call "trusted committers." They not only set strategic and technical direction but are also responsible for mentoring newcomers, setting a tone for the project, and enabling new contributors.
 * Members of the team using a component as a dependency can act as contributors to it, making changes to that component in coordination with and with support from trusted committers.
 
