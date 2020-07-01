@@ -103,10 +103,3 @@ The Open Organization book series is open source and always accepting new contri
 
 ### Join the community
 Are you passionate about using open source ideas to enhance organizational life? Connect with like-minded practitioners at the Open Organization [community hub](https://www.theopenorganization.community).
-
-
-
-
-
-
-
