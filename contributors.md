@@ -3,12 +3,9 @@ Peter Baumgartner is the founder at Lincoln Loop, a web agency specializing in t
 
 Bryan Behrenshausen is a community architect in the Open Source Program Office at Red Hat. He assists the Open Organization project and community, manages the Open Organization section of Opensource.com, and helps maintain the *Open Organization* book series.
 
-Ben Cotton is a meteorologist by training, but weather makes a great hobby.
-Ben works as a the Fedora Program Manager at Red Hat.
-He's an Open Organization Ambassador, an Opensource.com Correspondent, and a general opiner on technology.
-Ben produces hot takes on Twitter as @FunnelFiasco.
+Ben Cotton is a meteorologist by training, but weather makes a great hobby. Ben works as a the Fedora Program Manager at Red Hat. He's an Open Organization Ambassador, an Opensource.com Correspondent, and a general opiner on technology. Ben produces hot takes on Twitter as @FunnelFiasco.
 
-Isabel Drost-Fromm is member of the Apache Software Foundation, co-founder and board member of the InnerSource Commons Foundation. Interested in all things search and text mining with experience in open source project governance and open collaboration she is working at Europace AG as Open Source Strategist. True to the nature of people living in Berlin she loves having friends visit - as a result she co-founded and is still one of the creative heads behind Berlin Buzzwords, a tech conference on all things search, scale and storage as well as FOSS Backstage, on all things behind the scenes FOSS project. She is a member of the inaugural Open Source and Intellectual Property Advisory Group of the United Nations Technology Innovation Labs (UNTIL).
+Isabel Drost-Fromm is a member of the Apache Software Foundation, a co-founder and board member of the InnerSource Commons Foundation, and a member of the inaugural Open Source and Intellectual Property Advisory Group of the United Nations Technology Innovation Labs (UNTIL). She's interested in all things search and text mining, and has experience in open source project governance and open collaboration. She's currently working at Europace AG as Open Source Strategist. 
 
 Laura Hilliger is a writer, educator and technologist. She’s a multimedia designer and developer, a technical liaison, a project manager, a conceptual architect, an open advocate who is happiest in collaborative environments. She's a director of We Are Open Co-op, an Ambassador for Opensource.com, is helping to open up Greenpeace, and a Mozilla alum. Find her on Twitter and Mastodon as @epilepticrabbit.
 
