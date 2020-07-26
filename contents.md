@@ -20,6 +20,7 @@
 - How to run an online community meeting (in 11 steps)—Laura Hilliger (We Are Open Co-Op)
 - Building a movement from home—Chad Sansing (Mozilla)
 - What I learned about working openly after one year on a distributed team—Anupama Jha (Red Hat)
+- Distributed government is the path to a truly open, empathetic, inclusive civil society—Luke Fretwell (ProudCity)
 
 ### Leading and managing
 - Understanding self-organization and management—Alexis Monville (Red Hat)

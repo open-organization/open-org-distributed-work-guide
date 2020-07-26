@@ -7,6 +7,8 @@ Ben Cotton is a meteorologist by training, but weather makes a great hobby. Ben 
 
 Isabel Drost-Fromm is a member of the Apache Software Foundation, a co-founder and board member of the InnerSource Commons Foundation, and a member of the inaugural Open Source and Intellectual Property Advisory Group of the United Nations Technology Innovation Labs (UNTIL). She's interested in all things search and text mining, and has experience in open source project governance and open collaboration. She's currently working at Europace AG as Open Source Strategist. 
 
+Luke Fretwell is
+
 Laura Hilliger is a writer, educator and technologist. She’s a multimedia designer and developer, a technical liaison, a project manager, a conceptual architect, an open advocate who is happiest in collaborative environments. She's a director of We Are Open Co-op, an Ambassador for Opensource.com, is helping to open up Greenpeace, and a Mozilla alum. Find her on Twitter and Mastodon as @epilepticrabbit.
 
 Anupama Jha is an internal communications strategist at Red Hat and is based out of Pune, India. She pursued communications and public relations as her academic specializations, and is involved in volunteering at various NPOs, which helped her to develop leadership skills, become a world citizen, and empower others.
