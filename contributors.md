@@ -20,3 +20,5 @@ Alexis Monville is building high impact sustainable organizations. Alexis is a m
 Chad Sansing works on leadership and training, as well as facilitator and newcomer support, for MozFest. When he's not at work, you can find him gaming, reading, or enjoying time with his family. Prior to joining Mozilla, he taught middle school for 14 years.
 
 Chad Whitacre was the founder of Gratipay, a funding platform for open source software developers and other creators. Gratipay's open company vision lives on through a successful fork, Liberapay.
+
+Jimmy Sjölund is a Lean and Agile coach at Telia Company, focusing on organisation transformation and team excellence while exploring agile and lean workflows. He is a visualisation enthusiast and an Open Organization Ambassador.
