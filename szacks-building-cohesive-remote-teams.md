@@ -19,18 +19,23 @@ In this chapter, I'll explain the following eight qualities that lead to cohesiv
 - Effective retrospectives
 - Celebrating success
 
-Perhaps unsurprisingly, most all of them are related to interpersonal relationships. 
+Perhaps unsurprisingly, each one is in some way related to interpersonal relationships. 
+And when team members think and act openly, each one of them improves.
+
 To build a cohesive team, you have to work on all the aspects that surround work, though they are not necessarily part of the team's workload. 
 Each one of these dimensions raises its own challenges when the team is working in a remote environment—and even more so when the team is distributed globally.
 
 ## Understanding the team goals
-Everybody on a team has their own tasks to complete, but the more each member understands the bigger picture, the easier it will be to shift direction and make sure that the implementation method fits the plan. 
-How do team members discover others'goals? 
-In a team that is physically located together, they can get a lot of information through osmosis—overhearing conversations, seeing what people are drawing on the whiteboard, and talking to people over a coffee or smoking break. 
-Questions are asked and answered and the big picture slowly emerges. 
-Because the remote team members don't see anybody else, there isn't as much natural curiosity.
+Everyone on a team has individual tasks to complete, but the more each member understands the bigger picture—the more they know what everyone else is doing, and why—the easier it will be to shift direction if they need to, and the easier it is to ensure that the solutions they're developing are the indeed the best solutions.
 
-For a remote team, this has to be consciously planned and disseminated. 
+So how do team members discover others' goals? 
+
+A team physically co-located together can derives a great deal of information through osmosis—overhearing spoken conversations, seeing what people are drawing on the whiteboard, and talking to people over a coffee or smoking break. 
+They ask and answer questions, exchange valuable context, and their understanding of what the team is working on slowly emerges. 
+
+Because remote team members don't always *see* other team members doing their work, they don't receive that osmotic information, and they aren't guided by as much natural curiosity. 
+So a  remote team, must consciously plan to disseminate the information that'll pique curiosity.
+
 However, being that the information isn't related directly to the work that each individual is dealing with, they may feel that it is irrelevant information. 
 This has to be regularly reinforced, including tying each person's specific work to the team's goals and objectives. 
 During meetings it is important to ask everyone who is giving a status to also relate to their work in terms of the larger objectives. 
@@ -41,7 +46,7 @@ Teams are comprised of individuals, each with their own strengths and weaknesses
 This allows the team to utilize each individual for the aspects that they can best contribute. 
 One person may be better at external communication, another at learning new things quickly and a third at graphic arts. 
 These attributes are often not advertised, but learned during personal interaction, such as coffee/smoking breaks, eating lunch together or going to the bar after work. 
-In a remote environment, people are often given tasks appropriate to their professional profile, but not not necessarily based on their personal ability.
+In a remote environment, people are often given tasks appropriate to their professional profile, but not necessarily based on their personal ability.
 
 As a member of a team, you often have to trust your teammates and understand what they mean when they say something. 
 For example, if someone says "I'll have it done by tomorrow", that can mean a lot of different things, from a practical perspective. 
@@ -55,8 +60,8 @@ The more you know about your teammates, the more you will be prepared for anythi
 Everyone has ups and downs and just like you can support your teammates when they are on a low, you can expect that they will support you when it comes around. 
 Having a personal relationship with people in a remote/global environment can be more challenging, as you have to explicitly build the relationship instead of having it slowly develop implicitly by virtue of you working together.
 
-In remote teams, you should encourage regular virtual coffee breaks. 
-This is a scheduled block of time in which a few people get together on a video call for specifically non-business conversation. 
+Remote teams should schedule regular coffee breaks.
+In this case, a "coffee break" is a block of time in which a few people get together on a video call for specifically non-business conversation. 
 It might seem a bit contrived at first, but with time, it helps build and cement relationships. 
 The team dynamic should guide exactly how it is implemented, either with set people each time, or a specific time when anyone who wants can join in. 
 At the beginning, it may be necessary to choose a person to set the topic, though after the team becomes comfortable with one another, natural conversation may be more forthcoming. 
@@ -114,8 +119,8 @@ It is a good practice to have someone else review emails before they are sent wh
 
 ## Diversity
 Every person is unique and has their own way of looking at any situation. 
-Everyone's perspective is generally colored by their life experiences, education as well as neurodiverse thought patterns. 
-A team that has people of similar background, will have a much narrower range of perspective than a team made up of people with very different backgrounds. 
+Everyone's perspective is generally colored by their life experiences, education, and neurodiverse cognitive patterns. 
+A team composed of people with similar backgrounds will have a much narrower range of perspectives than a team made up of people with different backgrounds. 
 This diversity enables the team to look at a situation through a multi-faceted lens, giving them a wider degree of understanding of the big picture.
 
 Diversity is one of the few aspects of cohesive teams that is potentially stronger in a remote environment. 
@@ -183,7 +188,7 @@ Going out for drinks or dinner after work, bringing in a cake or any other type 
 This enables the team to relive the victory and discuss future plans.
 
 On a remote team, this is more challenging, as each team member is celebrating on their own. 
-During regular team meetings, it is a good idea to start off asking for appreciations. 
+Consider beginning regular team meetings by asking members to share their appreciations. 
 Each participant has the opportunity to give a shout-out to someone else on the team who did something positive. 
 This peer-recognition is a great way to express appreciation and then the team that they are valued members. 
 If the team has a budget for awards, the manager can have an "employee of the month" award or similar, for which the winner is sent a small token of appreciation, such as a "dinner for 2" coupon. 
