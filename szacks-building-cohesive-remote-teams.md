@@ -26,28 +26,29 @@ To build a cohesive team, you have to work on all the aspects that surround work
 Each one of these dimensions raises its own challenges when the team is working in a remote environment—and even more so when the team is distributed globally.
 
 ## Understanding the team goals
-Everyone on a team has individual tasks to complete, but the more each member understands the bigger picture—the more they know what everyone else is doing, and why—the easier it will be to shift direction if they need to, and the easier it is to ensure that the solutions they're developing are the indeed the best solutions.
+Everyone on a team has individual tasks to complete, but the more each member understands the bigger picture—the more they know what everyone else is doing, and why—the easier it will be to shift direction if they need to, and the easier it is to ensure that the solutions they're developing are the indeed the best solutions (and the more opportunities they'll find to add unanticipated value to each other's work).
 
 So how do team members discover others' goals? 
 
-A team physically co-located together can derives a great deal of information through osmosis—overhearing spoken conversations, seeing what people are drawing on the whiteboard, and talking to people over a coffee or smoking break. 
-They ask and answer questions, exchange valuable context, and their understanding of what the team is working on slowly emerges. 
+A team physically co-located can derive a great deal of information through osmosis—overhearing spoken conversations, seeing what people are drawing on the whiteboard, and talking to people over a coffee or smoking break. 
+They can ask and answer questions, exchange valuable context, and their understanding of what the team is working on slowly emerges. 
 
 Because remote team members don't always *see* other team members doing their work, they don't receive that osmotic information, and they aren't guided by as much natural curiosity. 
-So a  remote team, must consciously plan to disseminate the information that'll pique curiosity.
+So a remote team must consciously plan to disseminate the information that'll pique curiosity.
 
-However, being that the information isn't related directly to the work that each individual is dealing with, they may feel that it is irrelevant information. 
-This has to be regularly reinforced, including tying each person's specific work to the team's goals and objectives. 
-During meetings it is important to ask everyone who is giving a status to also relate to their work in terms of the larger objectives. 
-This will help focus everyone on what the real mission is and not to get bogged down on the details of their specific tasks.
+However, since this kind of osmotic information isn't always directly related to the work that each person on a remote team is dealing with, certain members might feel it's irrelevant—and filter it out.
+So teams need to deliberately reinforce osmotic information flows and constantly ensure that it's tying each person's specific work to the team's goals and objectives.
+During meetings, for example, it's important to ask everyone providing a status to also relate to their work in terms of the team's broader objectives. 
+This will help *everyone* focus on the team's joint mission, and not get bogged down on the details of their specific tasks.
 
 ## Relating to your teammates on a personal level
-Teams are comprised of individuals, each with their own strengths and weaknesses, even when they all can answer to the same job description. 
-This allows the team to utilize each individual for the aspects that they can best contribute. 
-One person may be better at external communication, another at learning new things quickly and a third at graphic arts. 
-These attributes are often not advertised, but learned during personal interaction, such as coffee/smoking breaks, eating lunch together or going to the bar after work. 
-In a remote environment, people are often given tasks appropriate to their professional profile, but not necessarily based on their personal ability.
+Teams are comprised of individuals, each with their own strengths and weaknesses, even when they can all identify with the same job description.
+Remote teams—all teams, really—are successful when they draw out their members' strengths while minimizing weaknesses.
+In this way, every team can tap individuals for the aspects of the work to which they can best contribute. 
+One person may be better at external communication, another at learning new things quickly, and a third at graphic arts. 
+These attributes might not be readily observable, but rather learned during personal interactions, such as coffee/smoking breaks, eating lunch together, or going to the bar after work. 
 
+In distributed organizations, people are often assigned tasks appropriate to their professional profiles—not necessarily based on their personal abilities.
 As a member of a team, you often have to trust your teammates and understand what they mean when they say something. 
 For example, if someone says "I'll have it done by tomorrow", that can mean a lot of different things, from a practical perspective. 
 Some people will actually have it done on time, and if you ask them about it beforehand, they will consider that annoying. 
@@ -104,7 +105,7 @@ In a meeting with multiple people, it is more difficult to know if everyone is f
 Instant messaging or chat is interactive communication, though you may miss a lot of verbal and non-verbal clues. 
 Emojis are often used to try and convey tone, and as such it is recommended to use them even in business conversation. 
 You do have to be careful not to overuse them, and to keep the tone professional. 
-While using chat, a lot of people tend to use informal jargon, such as "u" or "ur" instead of "you" and "your". 
+While using chat, many people tend to use informal jargon, such as "u" for "you" or "ur" for "your."
 Before doing this, you should set standards with your team as to what is considered acceptable communication. 
 If you are chatting with people you don't normally work with, always use full spelling and complete sentences until such standards are established.
 
@@ -150,14 +151,14 @@ They should also look towards career goals and ensure that the team member is mo
 ## Effective retrospectives
 When a project reaches a milestone—or wraps up—it's generally a good idea to conduct a retrospective (or "post-mortem") to review what how the team succeeded on the project and how it may need to improve in the future. 
 This involves analyze the _entire_ project process—both the "good" aspects as well as "bad." 
-Teams are successful when they draw out their members' strengths while minimizing weaknesses; this process enables team members to provide feedback to their peers and for everyone to learn from one another.
+This process enables team members to provide feedback to their peers and for everyone to learn from one another.
 
 In a remote environment, a retrospective should be a multi-step process that looks something like this:
 
--   Survey
--   Review & Follow-up
--   Meet & Discuss
--   Action Items
+- Survey
+- Review & Follow-up
+- Meet & Discuss
+- Action Items
 
 ### Survey
 Ask the participants to collaborate on writing questions to ask the team about the project. 
@@ -182,16 +183,15 @@ The result of this should be a list, based on each question of aspects that shou
 The finalized list should be sent to the team for an additional review to gain final feedback before declaring the process complete.
 
 ## Celebrating success
-Upon completing a successful project or process, it is a good idea to celebrate. 
-This not only reinforces the positive aspects, but also enables the team to spend time together in an informal, positive manner. 
-Going out for drinks or dinner after work, bringing in a cake or any other type of celebration brings the team closer. 
-This enables the team to relive the victory and discuss future plans.
+Celebrate when the team successfully completes a project or process. 
+Doing this not only reinforces a culture of positivity but also enables the team to spend time together, informally socializing. 
 
-On a remote team, this is more challenging, as each team member is celebrating on their own. 
-Consider beginning regular team meetings by asking members to share their appreciations. 
-Each participant has the opportunity to give a shout-out to someone else on the team who did something positive. 
-This peer-recognition is a great way to express appreciation and then the team that they are valued members. 
-If the team has a budget for awards, the manager can have an "employee of the month" award or similar, for which the winner is sent a small token of appreciation, such as a "dinner for 2" coupon. 
-If the team is in a similar time-zone, you can gather at the end of the day for a team drink together. 
-While it isn't the same as actually going out, it is an informal after work together-type event. 
-In teams that are globally dispersed this is not generally possible.
+For co-located teams, this might involve going out for drinks or dinner after work, sharing a cake, or any other type of celebration brings the team closer. 
+Moments like these enable the team to relive the victory and discuss future plans.
+
+On a remote team, celebratory traditions like this are more challenging, as it can seem like members are celebrating on their own. 
+To espouse a culture of positivity on a distributed team, consider beginning regular team meetings by asking members to share something they appreciate. 
+This provides every participant the opportunity recognize someone else on the team who did something positive. 
+This peer-recognition is a great way to reinforce every team member's value. 
+If the team has a budget for awards, it might consider initiating something like a "member of the month" award (or similar), for which the winner is sent a small token of appreciation (like a restaurant gift certificate). 
+And if every member of the team is working in the same (or closely aligned) time zones, the team might gather on a video call at the end of the work day and share a drink. 
