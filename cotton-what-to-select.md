@@ -1,16 +1,23 @@
 # What to select when you're connecting
 
-Communication is key to the success of any project.
-Picking the right tool won't automatically make your distributed work successful, but the tools you use to communicate play a part in how effective your communication is.
-Recent discussions in projects where I participate have made me consider what tool selection looks like.
+Communication is key to any project's success. 
+Recent discussions in open communities where I participate have made that clear to me. 
+By and large, most of these discussions are about the merits of one communication tool over another.
 Should Discourse replace mailing lists?
 Should Telegram replace IRC?
 This chapter is not going to answer those questions.
 
-There's no one right tool, just a set of considerations to think about in selecting communications tooling.
-Each organization needs to arrive at a consensus about what works best for its workflow and culture, bearing in mind that the decision may attract some participants while driving others away.
+That's because picking the right communication tool won't automatically make your distributed work successful.
+In fact, _there is no single, "right" tool for your open team or organization—just a set of considerations to think about in selecting communications tooling.
+The merit of any tool isn't intrinsic to the tool iteself.
+It's a product of how well it solves a problem for your team.
+
+Without a doubt, the tools you use to communicate will influence the effectiveness of your team's communication.
+But every open organization needs to arrive at a consensus about which tools works best for its workflow and culture, bearing in mind that the decision may attract some participants while driving others away.
 While some tools naturally favor certain kinds of interaction, your organization's culture matters more.
 
+So in this chapter, I'll review some considerations you might consider consider as you select the tools for connecting your distributed team.
+ 
 ## Categories of communication
 
 In this chapter, I broadly lump tools into two categories: *synchronous* and *asynchronous*.
