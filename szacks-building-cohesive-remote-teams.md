@@ -12,7 +12,8 @@ So in order to understand what's necessary for building cohesive remote teams, w
 In this chapter, I'll explain the following seven qualities that lead to cohesive teams:
 
 - Understanding the team goals
-- Relating to your teammates on a personal level
+- Informal interactions
+- Knowing the whole person
 - Communication
 - Diversity
 - Regular feedback
@@ -41,69 +42,67 @@ So teams need to deliberately reinforce osmotic information flows and constantly
 During meetings, for example, it's important to ask everyone providing a status to also relate to their work in terms of the team's broader objectives. 
 This will help *everyone* focus on the team's joint mission, and not get bogged down on the details of their specific tasks.
 
-## Relating to your teammates on a personal level
+## Informal interactions
+In distributed organizations, people are often assigned tasks appropriate to their professional profiles—not necessarily based on their personal abilities.
+So teams might not be able to infer the full extent of their teammates' talents and interests simply by observing the work they're doing. 
+Therefore, creating ample opportunities for information interactions between distributed team members is essential to team cohesion.
+
+First, doing this can help team members locate and draw out hidden talents on the team.
 Teams are comprised of individuals, each with their own strengths and weaknesses, even when they all qualify for the same job description.
 Remote teams—all teams, really—are successful when they draw out their members' strengths while minimizing weaknesses.
 In this way, every team can tap individuals for the aspects of the work to which they can best contribute. 
 One person may be better at external communication, another at learning new things quickly, and a third at graphic arts. 
-These attributes might not be readily observable, but rather learned during personal interactions, such as coffee/smoking breaks, eating lunch together, or going to the bar after work. 
+These attributes might not be readily observable.
+Rather, team members learn about them from one another through interpersonal interactions, perhaps while taking coffee/smoking breaks, eating lunch together, or going to the bar after work.
 
-In distributed organizations, people are often assigned tasks appropriate to their professional profiles—not necessarily based on their personal abilities.
-As a member of a team, you often have to trust your teammates and understand what they mean when they say something. 
-For example, if someone says "I'll have it done by tomorrow", that can mean a lot of different things, from a practical perspective. 
-Some people will actually have it done on time, and if you ask them about it beforehand, they will consider that annoying. 
-Other people need reminders and a bit of pushing, if you actually want it delivered as promised. 
-It may be in perfect form at the promised date, or that might be the first rough draft.
-
-You should know what is going on in their personal life. 
-If they are expecting a new life event, such as getting married, having a baby or going through a hard time this can impact their work ethic. 
+Fostering informal interactions on a distributed team is also important for helping that team collaborate more effectively.
+In short, they're more likely to work better together when they understand and recognize one another more completely.
+Here's one example of what I mean: As a member of a team, you often have to trust your teammates and understand what they mean when they say something. 
+Someone who says "I'll have that done by tomorrow" might mean one of several different things by that sentence from a practical perspective. 
+Some people will have it done on time (or before), and if you ask them about it beforehand, they will consider that annoying. 
+Others need reminders and a bit of pushing if they're going to deliver the work to you as promised. 
+On a distributed team, you'll only understand nuances like these if you've spent some time really getting to you know your teammates and understanding their personalities.
 The more you know about your teammates, the more you will be prepared for anything they throw your way. 
-Everyone has ups and downs and just like you can support your teammates when they are on a low, you can expect that they will support you when it comes around. 
-Having a personal relationship with people in a remote/global environment can be more challenging, as you have to explicitly build the relationship instead of having it slowly develop implicitly by virtue of you working together.
 
-Remote teams should schedule regular coffee breaks.
+Having a personal relationship with people in a remote/global environment can be more challenging, as you must explicitly build relationships instead of having them slowly develop organically by virtue of simply occupying the same physical location.
+One strategy for fostering these relationships is schedukling regular coffee breaks.
 In this case, a "coffee break" is a block of time in which a few people get together on a video call for specifically non-business conversation. 
-It might seem a bit contrived at first, but with time, it helps build and cement relationships. 
-The team dynamic should guide exactly how it is implemented, either with set people each time, or a specific time when anyone who wants can join in. 
-At the beginning, it may be necessary to choose a person to set the topic, though after the team becomes comfortable with one another, natural conversation may be more forthcoming. 
-An important thing to remember is that this is still a business environment, and topics that are out of bounds should not be raised.	
+It might seem a bit contrived at first, but with time, you'll find it helps build and cement interpersonal relationships. 
 
 ## Communication
-"The most important thing in communication is to hear what isn't being said," Peter Drucker once noted.
-There are multiple ways of communicating in a face to face environment. 
-Tone, facial expressions and body language are just as important, if not more so, than the actual words used. 
-Learning how your teammates convey ideas is critical in understanding what is being said. 
-In the world of faceless communication, such as email and chat, there is so much innuendo that is lost. 
-Sarcastic email replies often cause a lot of consternation as the recipient tries to understand the meaning of the email. 
-While video conferencing mitigates some of this, it is still a long way from a face to face conversation.
+In face-to-face environments, people have access to multiple means of communicating.
+Tone, facial expressions, and body language are just as important (if not more so) than the words people use when interacting.
+These channels are rich sources of meaning, and learning *how* your teammates convey ideas is critical to understanding what those teammates are saying.
+("The most important thing in communication is to hear what isn't being said," Peter Drucker once noted.)
 
-Not all remote communication is equally effective. 
-It can be ranked in the following order:
+Yet on distributed teams, faceless communication—facilitated perhaps with email or text chat—so much of that nuance can be lost.
+And opportunities for misunderstanding can multiply.
 
--   video conference
--   voice-only
--   instant message/chat
--   email
+Not all remote communication tools are equally effective. 
+I would rank them in the following order of decreasing effectiveness:
 
-### Video Conference
-The best form of remote communication is video conference. 
-While it's not the same as standing next to someone, at least you can see the person, including their facial expressions. 
-Do they look tired and exasperated or cheerful and playful. 
-You can hear their voices and recognize the seriousness of their words or the sarcasm and cynicism. 
-You can see that they are paying attention, as well as body language reactions to what is being said. 
-Ask all participants to turn on their video cameras. 
-Keep in mind that this may not be possible for everyone, as they may have low bandwidth concerns or other things going on in the background. 
+- video conference
+- voice-only communication
+- instant message/chat
+- email
+
+### Video conference
+The best form of remote communication is a video conference. 
+While it can't quite replicate the experience of standing next to someone, it at least allows you to see the person you're talking to, including their facial expressions. 
+You can hear their voices and recognize the either seriousness of their words or the sarcasm they're intended. 
+You can see that they are paying attention, and you can monitor body-language reactions to what you're saying. 
+So when possible, ask all participants to turn on their video cameras (just keep in mind that this may not be possible for everyone, as they may have low bandwidth concerns or other things going on in the background). 
 When cameras are on, participants are engaged more as it is easier to see if they are concentrating on something else. 
 Oftentimes, people tend to multitask when they know that nobody can see them.
 
-### Voice communication
-With voice communication, you lose the ability to see the participants and all the benefits mentioned above. 
+### Voice-only communication
+With voice-only communication, you lose the ability to see the participants and all the benefits mentioned above. 
 However, you still get to hear the tone of voice, which includes any hesitations or uncertainties. 
-In a meeting with multiple people, it is more difficult to know if everyone is fully engaged.
+And in a meeting with multiple people, knowing whether everyone is fully engaged becomes more difficult.
 
-### Instant Messaging/Chat
-Instant messaging or chat is interactive communication, though you may miss a lot of verbal and non-verbal clues. 
-Emojis are often used to try and convey tone, and as such it is recommended to use them even in business conversation. 
+### Instant messaging/chat
+Instant messaging or chat maintains synchronous communication, though you may miss many verbal and non-verbal cues you'd otherwise pick through audio and video. 
+People often use emojis to convey tone, and as such it is recommended to use them even in business conversation. 
 You do have to be careful not to overuse them, and to keep the tone professional. 
 While using chat, many people tend to use informal jargon, such as "u" for "you" or "ur" for "your."
 Before doing this, you should set standards with your team as to what is considered acceptable communication. 
@@ -119,16 +118,16 @@ It is imperative to understand the limitations of email, and take that into cons
 It is a good practice to have someone else review emails before they are sent when you have an expectation that they may be misunderstood.
 
 ## Diversity
-Every person is unique and has their own way of looking at any situation. 
+Every person is unique and has their own way of viewing and interpreting any situation. 
 Everyone's perspective is generally colored by their life experiences, education, and neurodiverse cognitive patterns. 
 A team composed of people with similar backgrounds will have a much narrower range of perspectives than a team made up of people with different backgrounds. 
 This diversity enables the team to look at a situation through a multi-faceted lens, giving them a wider degree of understanding of the big picture.
 
-Diversity is one of the few aspects of cohesive teams that is potentially stronger in a remote environment. 
-Teams that are comprised of people from multiple backgrounds, countries and cultures have the ability to work together and increase the value they provide. 
-A team that learns how to interact with each other and feed off of each other's strengths will be able to blend into a cohesive mesh.
+Diversity is one of the few components of cohesive teams that is potentially *stronger* in a remote environment. 
+That is, distributed teams can have members anywhere; teams comprised of people from multiple backgrounds, countries, and cultures have the ability to work together and increase the value they provide. 
+A team whose members learn to interact with each other and feed off of each other's strengths will be able to blend into a cohesive mesh.
 
-## Regular Feedback
+## Regular feedback
 Feedback is a critical aspect in a team's ability to constantly improve. 
 They have to understand what they are doing right, so that they can continue doing that as well as the mistakes they've made so that they can work on those issues. 
 Feedback can come from multiple directions. 
