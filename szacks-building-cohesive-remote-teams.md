@@ -128,58 +128,62 @@ That is, distributed teams can have members anywhere; teams comprised of people 
 A team whose members learn to interact with each other and feed off of each other's strengths will be able to blend into a cohesive mesh.
 
 ## Regular feedback
-Feedback is a critical aspect in a team's ability to constantly improve. 
-They have to understand what they are doing right, so that they can continue doing that as well as the mistakes they've made so that they can work on those issues. 
-Feedback can come from multiple directions. 
-Managers who see that there is a problem with people working together, can suggest methods of improvement. 
+Feedback is one critical aspect of a team's ability to constantly improve. 
+Team members must understand what they're doing right so they can *continue* doing that.
+They must also understand the mistakes they've made so that they can work on those issues. 
+Feedback can come from multiple source and travel in muultiple directions. 
+Managers who oversee a problem with people working together can suggest methods of improvement. 
 Teammates can make suggestions to each other regarding problems they've seen and suggestions on how to improve. 
-Customers can provide feedback on what improvements will make their lives better.
+Customers can provide feedback on the improvements that will improve their lives.
 
-When working with a remote team, this feedback loop becomes more difficult to manage. 
-There are much fewer interactions between the team members, so they may not feel comfortable giving constructive criticism. 
-Managers don't see the interactions and may not be aware that some of the team members are not working well together. 
-The feedback loop has to become more of a structured process, than an informal discussion in the cafeteria.
+Managing these feedback loops is much more difficult for remote, distributed teams. 
+Fewer interactions between team members means certain people might not feel comfortable giving constructive criticism.
+(See the section above, on informal interactions!)
+Leaders and managers don't always observe team member interactions and may not be aware that some of the team members are not working well together. 
+The feedback loop has to become an object of deliberte structure and care (more than, say an informal discussion in the cafeteria).
 
-To accomplish this, managers should have regular one on one meetings with each team member. 
-Everyone should have a list of objectives, both task and career based. 
-During these meetings, the manager should provide any feedback about the tasks the team member is responsible for. 
-The team member should also be asked for feedback on the tasks, the manager and the team's general direction. 
-This should be an open conversation, where the team member feels safe and that his opinions are valued. 
-They should also look towards career goals and ensure that the team member is moving in the correct direction and getting the experience needed.
+To accomplish this, team leaders and managers should hold regular one-on-one meetings with team members.
+Everyone should attend these meetings with a list of both task- and career-based objectives.
+During these meetings, leaders should provide feedback about the tasks for which the team member is responsible and ask team members should feedback on those tasks, on the team leader, and the team's general direction. 
+This should be an open conversation, where all parties feel safe and valued. 
 
 ## Effective retrospectives
-When a project reaches a milestone—or wraps up—it's generally a good idea to conduct a retrospective (or "post-mortem") to review what how the team succeeded on the project and how it may need to improve in the future. 
-This involves analyze the _entire_ project process—both the "good" aspects as well as "bad." 
-This process enables team members to provide feedback to their peers and for everyone to learn from one another.
+When a project reaches a milestone—or wraps up—it's generally a good idea to conduct a retrospective (or "post-mortem") to review how the team succeeded on the project and how it may need to improve in the future. 
+This involves analyzing the _entire_ project process—both the "good" aspects as well as "bad." 
+An effective retrospective process enables team members to provide feedback to their peers and for everyone to learn from one another.
 
 In a remote environment, a retrospective should be a multi-step process that looks something like this:
 
 - Survey
-- Review & Follow-up
-- Meet & Discuss
-- Action Items
+- Review and follow-up
+- Meet and discuss
+- Action items
 
 ### Survey
-Ask the participants to collaborate on writing questions to ask the team about the project. 
-You want to make sure that everyone's ideas and concerns are taken into account and included. 
-After the team agrees on the questions, they should be sent as a survey for everyone to answer. 
-As much as possible, every question should be actionable - based on the answers, the process can be changed in the next project. 
-When possible, questions should have fixed options as answers, either True/False or a small set of possibilities. 
+Ask participants to collaborate on writing questions to ask the team about the project. 
+These questions might sound like:
+- 
+- 
+- 
+You want to ensure that everyone's ideas and concerns are taken into account and included. 
+After the team agrees on the questions, they should compile them and send them to all team members in the form of a survey. 
+As much as possible, every question should lead to *actionable* outcomes; based on the group's answers, that is, the team's process should *change* during its next project, if necessary.
+Moreover, when possible, questions should have fixed options as answers.
 This will enable you to generate statistics per answer. 
-You also need a place for additional comments, so that everyone has the opportunity to provide their full feedback.
+Your survey should also include a place for additional comments, so everyone has the opportunity to provide their complete feedback.
   
 ### Review
-When all the survey results are complete, publish them for the entire team to see and review. 
-Any questions about the results should be followed-up on so that you understand them. 
+When all survey results are complete, publish them for the entire team to see and review. 
+Leaders should address any questions about the results so everyone on the team understands them. 
 Everyone on the team should keep track of their own comments on each result.
 
 ### Meet & Discuss
-After the individual review is complete, it is time for the meeting. 
-Each question should be reviewed and the team should be asked for any thoughts or comments. 
-The result of this should be a list, based on each question of aspects that should remain the same and those that should change in future projects.
+After the individual review is complete, it is time for the retrospective meeting. 
+Reviewed each question and allow everyone on the team to share impressions and comments. 
+The result of this session should be a list of the aspects of team workflow and process the team feels should remain the same (and those that should change in future projects).
 
 ### Action Items
-The finalized list should be sent to the team for an additional review to gain final feedback before declaring the process complete.
+Send the finalized list to the team for an additional review to gain final feedback before declaring the process complete.
 
 ## Celebrating success
 Celebrate when the team successfully completes a project or process. 
@@ -194,3 +198,5 @@ This provides every participant the opportunity recognize someone else on the te
 This peer-recognition is a great way to reinforce every team member's value. 
 If the team has a budget for awards, it might consider initiating something like a "member of the month" award (or similar), for which the winner is sent a small token of appreciation (like a restaurant gift certificate). 
 And if every member of the team is working in the same (or closely aligned) time zones, the team might gather on a video call at the end of the work day and share a drink. 
+
+{Conclusion?}
