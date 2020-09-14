@@ -9,7 +9,7 @@ A cohesive team consisting of average-skilled employees can easily outperform a 
 This remains true no matter where team members are located. 
 So in order to understand what's necessary for building cohesive remote teams, we must start with understanding what makes *any* team successfully cohesive—then determine the best ways to translate those practices and habits to a distributed environment.
 
-In this chapter, I'll explain the following eight qualities that lead to cohesive teams:
+In this chapter, I'll explain the following seven qualities that lead to cohesive teams:
 
 - Understanding the team goals
 - Relating to your teammates on a personal level
@@ -26,14 +26,14 @@ To build a cohesive team, you have to work on all the aspects that surround work
 Each one of these dimensions raises its own challenges when the team is working in a remote environment—and even more so when the team is distributed globally.
 
 ## Understanding the team goals
-Everyone on a team has individual tasks to complete, but the more each member understands the bigger picture—the more they know what everyone else is doing, and why—the easier it will be to shift direction if they need to, and the easier it is to ensure that the solutions they're developing are the indeed the best solutions (and the more opportunities they'll find to add unanticipated value to each other's work).
+Everyone on a team has individual tasks to complete. However, the more each member understands the bigger picture - what everyone else is doing, and why - the easier it will be to shift direction if they need to. It will also be easier to ensure that the solutions they're developing are indeed the best solutions (and the more opportunities they'll find to add unanticipated value to each other's work).
 
 So how do team members discover others' goals? 
 
 A team physically co-located can derive a great deal of information through osmosis—overhearing spoken conversations, seeing what people are drawing on the whiteboard, and talking to people over a coffee or smoking break. 
 They can ask and answer questions, exchange valuable context, and their understanding of what the team is working on slowly emerges. 
 
-Because remote team members don't always *see* other team members doing their work, they don't receive that osmotic information, and they aren't guided by as much natural curiosity. 
+Because remote team members don't always *see* other team members doing their work, they don't receive that osmotic information, and they aren't guided as much by natural curiosity. 
 So a remote team must consciously plan to disseminate the information that'll pique curiosity.
 
 However, since this kind of osmotic information isn't always directly related to the work that each person on a remote team is dealing with, certain members might feel it's irrelevant—and filter it out.
@@ -42,7 +42,7 @@ During meetings, for example, it's important to ask everyone providing a status 
 This will help *everyone* focus on the team's joint mission, and not get bogged down on the details of their specific tasks.
 
 ## Relating to your teammates on a personal level
-Teams are comprised of individuals, each with their own strengths and weaknesses, even when they can all identify with the same job description.
+Teams are comprised of individuals, each with their own strengths and weaknesses, even when they all qualify for the same job description.
 Remote teams—all teams, really—are successful when they draw out their members' strengths while minimizing weaknesses.
 In this way, every team can tap individuals for the aspects of the work to which they can best contribute. 
 One person may be better at external communication, another at learning new things quickly, and a third at graphic arts. 
