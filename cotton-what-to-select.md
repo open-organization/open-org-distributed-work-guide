@@ -9,8 +9,8 @@ Should Telegram replace IRC?
 This chapter is not going to answer those questions.
 
 That's because picking the right communication tool won't automatically make your distributed work successful.
-In fact, *there is no single, "right" tool for your open team or organization*—just a set of considerations to think about in selecting communications tooling.
-The merit of any tool isn't intrinsic to the tool iteself.
+In fact, *there is no single "right" tool for your open team or organization* - just a set of considerations to think about in selecting communications tooling.
+The merit of any tool isn't intrinsic to the tool itself.
 It's a product of how well it solves a problem for your team.
 
 Without a doubt, the tools you use to communicate will influence the effectiveness of your team's communication.
@@ -21,7 +21,7 @@ So let's review some considerations you might make as you select the tools for c
  
 ## Categories of communication
 
-In this chapter, I'll lump tools into two broad categories based on the kind of communication they facilitate: *synchronous* and *asynchronous*.
+In this chapter, I lump tools into two broad categories based on the kind of communication they facilitate: *synchronous* and *asynchronous*.
 Synchronous tools are designed for real-time interaction when participants are active at the same time.
 This includes various chat platforms, as well as voice and video call platforms.
 Asynchronous tools do not rely on participants being active at the same time.
@@ -29,7 +29,7 @@ Email is perhaps the quintessential asynchronous platform, but forum tools, Kanb
 
 Of course, the categories blur a bit; you can reply to an email immediately and you can let a chat message sit until tomorrow.
 But most pretty obviously fall into one category or the other. 
-Because you can bend a communication tool to cover both categories of communication, you may be tempted to fit all of your communication into one tool.
+Because you can bend a communication tool to cover both synchronous and asynchronous categories, you may be tempted to fit all of your communication into one tool.
 Picking "one tool to rule them all" is a valid option, but be aware that it immediately favors one category of communication over the other.
 Plus, the more a tool does, the less likely it is to do those things *well*.
 
@@ -60,8 +60,8 @@ Pick no more than one tool for a given purpose.
 Otherwise, confusion reigns.
 And make those boundaries clear.
 Maybe it's an organization-wide decision.
-Maybe different teams *within* an organization are using different tools (fine, so long as everyone who wants to participate know where to look).
-Just note that in the latter scenario any communication across teams will require every to manage multiple platforms—and there you go, increasing the number of tools you use.
+Maybe different teams *within* an organization are using different tools (fine, so long as everyone who wants to participate knows where to look).
+Just note that in the latter scenario any communication across teams will require every to manage multiple platforms - and there you go, increasing the number of tools you use.
 
 Cotton's Law.
 
@@ -69,13 +69,11 @@ Do your best to keep entropy in check by intentionally choosing one platform and
 
 ## What to select
 
-In what remains of this chapter, I'll review some considerations you might make when your team is searching for a new communication tool.
-Generally, I'll present them as a series of tradeoffs with "X or Y?" framing.
-And I'll present them in no particular order.
+In what remains of this chapter, I review some considerations you might make when your team is searching for a new communication tool.
+Generally, I'll present them as a series of tradeoffs with "X or Y?" framing and in no particular order.
 Your priorities are your own and you will have to weight each consideration appropriately.
 
-The first section covers considerations that apply to both synchronous and asynchronous tools.
-The next two sections look at those categories in turn.
+The first section covers considerations that apply to both synchronous and asynchronous tools while the sections following that look at each of those categories in turn.
 
 ### Considerations for all tools
 
@@ -88,45 +86,52 @@ At some point, you will need to deal with organizational safety issues via your 
 This is particularly true if you use publicly-available tools (see below).
 The worst time to learn about your platform's safety features is after they're needed.
 
-To ensure your tools promote organizational safety, I suggest reviewing Ben Balter's [list of seven safety features](https://ben.balter.com/2020/08/31/trust-and-safety-features-to-build-into-your-product-before-someone-gets-hurt/) a reliably safe tool should have: blocking/muting, reporting, hiding content, preventing new content, community guidelines, auditability, user consent.
-While Balter approaches these issues  from the perspective of tool *developers*, his list is also instructive for tool *selectors*, too.
-If the tool you're looking at does not include the seven features, you may want to reconsider whether it will meet your needs.
+To ensure your tools promote organizational safety, I suggest reviewing Ben Balter's [list of seven safety features](https://ben.balter.com/2020/08/31/trust-and-safety-features-to-build-into-your-product-before-someone-gets-hurt/) in which a reliably safe tool should have: 
+* blocking/muting, 
+* reporting, 
+* hiding content, 
+* preventing new content, 
+* community guidelines, 
+* auditability, and 
+* user consent.
+
+While Balter approaches these issues from the perspective of tool *developers*, his list is also instructive for tool *selectors*, too.
+If the tool you're looking at does not include these seven features, you may want to reconsider whether it will meet your needs.
 
 **Self-hosted or externally-hosted.**
-Do you have the resources—both human and financial—to maintain the tool yourself?
+Do you have the resources - both human and financial - to maintain the tool yourself?
 If you do, then that's one way to maintain control over your tooling.
 But remember that time spent administering and troubleshooting communication tools is also time your team or organization can't spend working on whatever it is you do.
 Externally-hosted tooling (either free or paid) might provide less flexibility, but it's also isolated from internal infrastructure outages.
 
 **Open source or proprietary.**
 This is entirely a value judgement for your organization.
-For some communities, anything that's not open source is a non-starter.
-Others might not care at all, one way or another.
+For some communities, anything that's not open source is a non-starter while others might not care at all.
 Most will fall somewhere on the spectrum between.
 Will your team or organization wish to modify, improve, or extend the tool it's using?
 If so, it'll need access to the tool's source code or design details, and an open source option might suit it.
 
 **Federated or centralized.**
 Email is a federated system; that is, people using it in different domains (@gmail.com, @hotmail.com, @fastmail.com, etc.) can still communicate with one another.
-Conversely, centralized platform *don't* allow that kind of cross-system communication.
+Conversely, centralized platforms *don't* allow that kind of cross-system communication.
 (Consider many contemporary social media platforms.
-Communication between Twitter and Facebook, for example isn't possible.)
+Communication between Twitter and Facebook, for example, isn't possible.)
 Will your team, organization, or community need to connect with others using their own instances or implementations of the same tool?
 If so, a federated system might be desirable.
-But as communication tools today seem to be tending toward centralized models, you may need to work harder to find a federated system that meets your needs.
+But as communication tools today seem to be trending toward centralized models, you may need to work harder to find a federated system that meets your needs.
 
 **Public or private.**
 Can outsiders see what you're saying?
 Should they?
 For many open organizations, public visibility is important.
-But even in those organizations, some conversations may need to take place privately or (semi-privately).
+But even in those organizations, some conversations may need to take place privately (or semi-privately).
 Your open and distributed team will need to decide if (and how) to publicize certain aspects of its communication.
 
 **Archived or ephemeral.**
 Do you want to be able to go back and see someone said last month, last year, or last decade?
 Do you want to maintain an easily referenced record of those conversations?
 Some conversations aren't worth keeping, but records of important decisions probably are.
-Your tool allow you to meet your archival needs.
+Your tool should allow you to meet your archival needs.
 
 **Third-party clients.**
 Does the platform allow for third-party clients, or do you have to use an officially supported client from the tool's developer?
@@ -135,10 +140,10 @@ This can be an important consideration for people with certain accessibility nee
 
 ### Considerations for synchronous tools
 
-Sometimes you just really need to talk to people in real time.
+Sometimes you just really need to talk to people in real-time.
 
 **Mobile experience.**
-People do a lot on their phones, especially if they travel frequently or if their internet service provider experiences an outage.
+People do a lot on their phones, especially if they travel frequently or if their Internet service provider experiences an outage.
 What is the mobile experience like for the tools you're evaluating?
 (It's not just a matter of whether a tool exists, but whether it offers a desirable experience.)
 If the user disconnects while on an airplane, do they lose all the messages sent in their absence?
@@ -159,7 +164,7 @@ The ability to speak entirely in images can be either a feature or a bug, depend
 But if it's important one way or another, you'll want to make sure your tool matches your needs.
 Of course, there are other integrations that might matter too.
 Can your software build system automatically post alerts to your communication tool, for example?
-Does the tool automatically recognize certain links and display them in an particular manner?
+Does the tool automatically recognize certain links and display them in a particular manner?
 
 ### Considerations for asynchronous tools
 
@@ -179,5 +184,5 @@ Pull mechanisms are easier to ignore when you want to step away for a little whi
 
 **Is it a ticket system?**
 I haven't really talked about ticket systems/issue trackers because I don't consider them a general communication tool.
-But for some projects, nearly all discussion essential to project and team success happens in a ticket tracker (like GitHub issues).
+But for some projects, nearly all discussion essential to the project and team success happens in a ticket tracker (like GitHub issues).
 If that works for you, there's no point in adding a new tool to the mix.
