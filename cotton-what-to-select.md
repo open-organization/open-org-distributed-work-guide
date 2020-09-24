@@ -9,7 +9,7 @@ Should Telegram replace IRC?
 This chapter is not going to answer those questions.
 
 That's because picking the right communication tool won't automatically make your distributed work successful.
-In fact, *there is no single "right" tool for your open team or organization* - just a set of considerations to think about in selecting communications tooling.
+In fact, *there is no single "right" tool for your open team or organization*—just a set of considerations to think about in selecting communications tooling.
 The merit of any tool isn't intrinsic to the tool itself.
 It's a product of how well it solves a problem for your team.
 
@@ -61,7 +61,7 @@ Otherwise, confusion reigns.
 And make those boundaries clear.
 Maybe it's an organization-wide decision.
 Maybe different teams *within* an organization are using different tools (fine, so long as everyone who wants to participate knows where to look).
-Just note that in the latter scenario any communication across teams will require every to manage multiple platforms - and there you go, increasing the number of tools you use.
+Just note that in the latter scenario any communication across teams will require every to manage multiple platforms—and there you go, increasing the number of tools you use.
 
 Cotton's Law.
 
@@ -99,7 +99,7 @@ While Balter approaches these issues from the perspective of tool *developers*, 
 If the tool you're looking at does not include these seven features, you may want to reconsider whether it will meet your needs.
 
 **Self-hosted or externally-hosted.**
-Do you have the resources - both human and financial - to maintain the tool yourself?
+Do you have the resources—both human and financial—to maintain the tool yourself?
 If you do, then that's one way to maintain control over your tooling.
 But remember that time spent administering and troubleshooting communication tools is also time your team or organization can't spend working on whatever it is you do.
 Externally-hosted tooling (either free or paid) might provide less flexibility, but it's also isolated from internal infrastructure outages.
