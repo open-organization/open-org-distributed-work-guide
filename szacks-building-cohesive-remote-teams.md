@@ -140,11 +140,11 @@ Managing these feedback loops is much more difficult for remote, distributed tea
 Fewer interactions between team members means certain people might not feel comfortable giving constructive criticism.
 (See the section above, on informal interactions!)
 Leaders and managers don't always observe team member interactions and may not be aware that some of the team members are not working well together. 
-The feedback loop has to become an object of deliberte structure and care (more than, say an informal discussion in the cafeteria).
+The feedback loop has to become an object of deliberate structure and care (more than, say an informal discussion in the cafeteria).
 
 To accomplish this, team leaders and managers should hold regular one-on-one meetings with team members.
-Everyone should attend these meetings with a list of both task- and career-based objectives.
-During these meetings, leaders should provide feedback about the tasks for which the team member is responsible and ask team members should feedback on those tasks, on the team leader, and the team's general direction. 
+To be most effective, this should include a review and status update of both task- and career-based objectives.
+During these meetings, leaders should provide feedback about the tasks for which the team member is responsible and ask team members for feedback on those tasks, on the team leader, and the team's general direction. 
 This should be an open conversation, where all parties feel safe and valued. 
 
 ## Effective retrospectives
@@ -179,8 +179,8 @@ Everyone on the team should keep track of their own comments on each result.
 
 ### Meet & Discuss
 After the individual review is complete, it is time for the retrospective meeting. 
-Reviewed each question and allow everyone on the team to share impressions and comments. 
-The result of this session should be a list of the aspects of team workflow and process the team feels should remain the same (and those that should change in future projects).
+During the meeting, review each question and allow everyone on the team to share impressions and comments. 
+The result of this session should be a list of the aspects of team workflow and process the team feels should change in future projects (and those that should remain the same).
 
 ### Action Items
 Send the finalized list to the team for an additional review to gain final feedback before declaring the process complete.
@@ -199,4 +199,6 @@ This peer-recognition is a great way to reinforce every team member's value.
 If the team has a budget for awards, it might consider initiating something like a "member of the month" award (or similar), for which the winner is sent a small token of appreciation (like a restaurant gift certificate). 
 And if every member of the team is working in the same (or closely aligned) time zones, the team might gather on a video call at the end of the work day and share a drink. 
 
-{Conclusion?}
+#Conclusion
+In conclusion, there is no doubt that it is more of a challenge in developing a cohesive distributed team than it would be in a co-located environment.
+However, by thinking through all the stages and keeping this goal in mind while setting up workplace conventions, you can acheive a similar result.
