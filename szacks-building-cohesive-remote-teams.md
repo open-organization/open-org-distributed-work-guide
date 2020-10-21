@@ -2,12 +2,19 @@
 Sim Zacks
 
 > "Science may never come up with a better office communication system than the coffee break."—Earl Wilson
-  
-{XXX}
 
-A cohesive team consisting of average-skilled employees can easily outperform a non-cohesive group of superstars. 
-This remains true no matter where team members are located. 
-So in order to understand what's necessary for building cohesive remote teams, we must start with understanding what makes *any* team successfully cohesive—then determine the best ways to translate those practices and habits to a distributed environment.
+A team is a group of individuals working on interrelated tasks.
+And most teams seem to encounter similar problems:
+
+- At points of integration between different tasks, miscommunication about responsibilities may occur
+- A team member with more experience on a certain aspect of a project might not get assigned work that sligns with that experience
+- Team members might miss opportunities to help one another with their work, causing issues with efficiency
+
+These issues don't disappear when teams are distributed geographically.
+In fact, they can be exacerbated.
+Success as a distributed team—like success with *any* team—is more certain when that team works together as a *cohesive* team—a team whose capabilities exceed the capabilities of all individual members.
+A cohesive team consisting of average-skilled employees can easily outperform a non-cohesive group of superstars.
+To get to this level, where "the whole is greater than the sum of its parts," each individual contributor must work in an interlocked fashion with other contributors.
 
 In this chapter, I'll explain the following seven qualities that lead to cohesive teams:
 
@@ -78,44 +85,13 @@ These channels are rich sources of meaning, and learning *how* your teammates co
 Yet on distributed teams, faceless communication—facilitated perhaps with email or text chat—so much of that nuance can be lost.
 And opportunities for misunderstanding can multiply.
 
-Not all remote communication tools are equally effective. 
-I would rank them in the following order of decreasing effectiveness:
+When communicating with a remote team, try to keep in mind the following ideas:
 
-- video conference
-- voice-only communication
-- instant message/chat
-- email
-
-### Video conference
-The best form of remote communication is a video conference. 
-While it can't quite replicate the experience of standing next to someone, it at least allows you to see the person you're talking to, including their facial expressions. 
-You can hear their voices and recognize the either seriousness of their words or the sarcasm they're intended. 
-You can see that they are paying attention, and you can monitor body-language reactions to what you're saying. 
-So when possible, ask all participants to turn on their video cameras (just keep in mind that this may not be possible for everyone, as they may have low bandwidth concerns or other things going on in the background). 
-When cameras are on, participants are engaged more as it is easier to see if they are concentrating on something else. 
-Oftentimes, people tend to multitask when they know that nobody can see them.
-
-### Voice-only communication
-With voice-only communication, you lose the ability to see the participants and all the benefits mentioned above. 
-However, you still get to hear the tone of voice, which includes any hesitations or uncertainties. 
-And in a meeting with multiple people, knowing whether everyone is fully engaged becomes more difficult.
-
-### Instant messaging/chat
-Instant messaging or chat maintains synchronous communication, though you may miss many verbal and non-verbal cues you'd otherwise pick through audio and video. 
-People often use emojis to convey tone, and as such it is recommended to use them even in business conversation. 
-You do have to be careful not to overuse them, and to keep the tone professional. 
-While using chat, many people tend to use informal jargon, such as "u" for "you" or "ur" for "your."
-Before doing this, you should set standards with your team as to what is considered acceptable communication. 
-If you are chatting with people you don't normally work with, always use full spelling and complete sentences until such standards are established.
-
-### Email
-The worst form of communication is email. 
-It is a unidirectional communication and very difficult to convey tone. 
-Messages are often misunderstood and read in a different tone than the sender intended. 
-When non-native speakers of the language are the recipients, colloquialisms can be very confusing. 
-This is not to say that email shouldn't be used, it is a critical aspect of business communication. 
-It is imperative to understand the limitations of email, and take that into consideration when sending. 
-It is a good practice to have someone else review emails before they are sent when you have an expectation that they may be misunderstood.
+- Each communication medium has plusses and minuses; try to find the best medium for your specific communication goals
+- Assume good intent; it's possible you aren't reading the message in the same "tone" it was sent
+- Try not to use sarcasm, cynicism, or other communication styles that require the kind of nuance that can't be easily understood through some channels
+- Use emojis to convey tone, but keep it simple and professional
+- Use video and interactive dialog to keep people engaged, especially in remote environments where distractions abound
 
 ## Diversity
 Every person is unique and has their own way of viewing and interpreting any situation. 
@@ -151,6 +127,9 @@ This should be an open conversation, where all parties feel safe and valued.
 When a project reaches a milestone—or wraps up—it's generally a good idea to conduct a retrospective (or "post-mortem") to review how the team succeeded on the project and how it may need to improve in the future. 
 This involves analyzing the _entire_ project process—both the "good" aspects as well as "bad." 
 An effective retrospective process enables team members to provide feedback to their peers and for everyone to learn from one another.
+During this retrospective, each team member should learn about methodologies other team members used.
+Comparing methods this way will often highlight strengths and weaknesses, as well as gaps and collaboration opportunities.
+By learning all of this, and building bridges to mitigate problems for the future, you'll greatly increase the team's cohesiveness.
 
 In a remote environment, a retrospective should be a multi-step process that looks something like this:
 
@@ -161,11 +140,15 @@ In a remote environment, a retrospective should be a multi-step process that loo
 
 ### Survey
 Ask participants to collaborate on writing questions to ask the team about the project. 
-These questions might sound like:
-- 
-- 
-- 
-You want to ensure that everyone's ideas and concerns are taken into account and included. 
+Each retrospective will be unique and require its own questions.
+But here are a few examples you can customize:
+- Was the initial project definition sufficient for understanding the scope of the work?
+- During the course of the project, what did the team learn that it should have known in advance?
+- Were there times when the project could have used more collaborative efforts?
+- What would you do differently if you were starting the project from scratch today?
+- Was the decision-making process transparent, and did you have the ability to influence the way the project unfolded?
+
+Your goal is to ensure that everyone's ideas and concerns are taken into account and included. 
 After the team agrees on the questions, they should compile them and send them to all team members in the form of a survey. 
 As much as possible, every question should lead to *actionable* outcomes; based on the group's answers, that is, the team's process should *change* during its next project, if necessary.
 Moreover, when possible, questions should have fixed options as answers.
