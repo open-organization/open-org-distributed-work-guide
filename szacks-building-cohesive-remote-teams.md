@@ -182,6 +182,6 @@ This peer-recognition is a great way to reinforce every team member's value.
 If the team has a budget for awards, it might consider initiating something like a "member of the month" award (or similar), for which the winner is sent a small token of appreciation (like a restaurant gift certificate). 
 And if every member of the team is working in the same (or closely aligned) time zones, the team might gather on a video call at the end of the work day and share a drink. 
 
-#Conclusion
-In conclusion, there is no doubt that it is more of a challenge in developing a cohesive distributed team than it would be in a co-located environment.
-However, by thinking through all the stages and keeping this goal in mind while setting up workplace conventions, you can acheive a similar result.
+# Expect challenges
+In conclusion, there's no doubt that developing a cohesive distributed team is more challenging than it would be in a co-located environment.
+However, by thinking through all the stages and keeping this goal in mind while establishing workplace conventions, you can acheive similar results.
