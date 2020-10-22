@@ -27,4 +27,4 @@ See [CONTRIBUTING.md](https://github.com/open-organization/open-org-distributed-
 
 ## Project timeline
 Release v0.9—July 07  
-Release v1.0—August 15
+Release v1.0—December 15
