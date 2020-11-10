@@ -1,4 +1,4 @@
-# Building Cohesive Remote Teams
+# Building cohesive remote teams
 Sim Zacks
 
 > "Science may never come up with a better office communication system than the coffee break."—Earl Wilson
