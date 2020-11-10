@@ -10,7 +10,7 @@
 
 ## Communicating
 - It's not the tool: Building a culture of transparency through company-wide chat—Guy Martin (OASIS Open)
-- Communication practices typical of high-performing remote teams—Sim Zacks (Red Hat)
+- Communication practices typical of high-performing remote teams—Jimmy Sjölund (Telia Company)
 - What to select when you're connecting—Ben Cotton (Red Hat)
 
 ## Collaborating
