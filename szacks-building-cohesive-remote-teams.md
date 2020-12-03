@@ -7,7 +7,7 @@ A team is a group of individuals working on interrelated tasks.
 And most teams seem to encounter similar problems:
 
 - At points of integration between different tasks, miscommunication about responsibilities may occur
-- A team member with more experience on a certain aspect of a project might not get assigned work that sligns with that experience
+- A team member with more experience on a certain aspect of a project might not get assigned work that aligns with that experience
 - Team members might miss opportunities to help one another with their work, causing issues with efficiency
 
 These issues don't disappear when teams are distributed geographically.
@@ -107,7 +107,7 @@ A team whose members learn to interact with each other and feed off of each othe
 Feedback is one critical aspect of a team's ability to constantly improve. 
 Team members must understand what they're doing right so they can *continue* doing that.
 They must also understand the mistakes they've made so that they can work on those issues. 
-Feedback can come from multiple source and travel in muultiple directions. 
+Feedback can come from multiple source and travel in multiple directions. 
 Managers who oversee a problem with people working together can suggest methods of improvement. 
 Teammates can make suggestions to each other regarding problems they've seen and suggestions on how to improve. 
 Customers can provide feedback on the improvements that will improve their lives.
@@ -172,7 +172,7 @@ Send the finalized list to the team for an additional review to gain final feedb
 Celebrate when the team successfully completes a project or process. 
 Doing this not only reinforces a culture of positivity but also enables the team to spend time together, informally socializing. 
 
-For co-located teams, this might involve going out for drinks or dinner after work, sharing a cake, or any other type of celebration brings the team closer. 
+For co-located teams, this might involve going out for drinks or dinner after work, sharing a cake, or any other type of celebration that brings the team closer. 
 Moments like these enable the team to relive the victory and discuss future plans.
 
 On a remote team, celebratory traditions like this are more challenging, as it can seem like members are celebrating on their own. 
