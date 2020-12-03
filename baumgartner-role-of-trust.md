@@ -63,7 +63,7 @@ Instead, we focus our energy on making sure people understand the *big picture*:
 
 Our trust in our team lets us be very light on rules without devolving into anarchy.
 We share an explicit set of core values, which everyone uses to guide their decisions and daily work.
-When you work with good people and you you trust them to do their jobs, guess what? They do!
+When you work with good people and you trust them to do their jobs, guess what? They do!
 
 And not only that, but they're much happier doing them.
 Instead of being a nameless cog in a machine, they feel empowered to make decisions that are important to the business.
