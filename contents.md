@@ -14,7 +14,7 @@
 - What to select when you're connecting—Ben Cotton (Red Hat)
 
 ## Collaborating
-- Distributed teams benefit when they track issues publicly—Chad Whitacre (Proofpoint)
+- Distributed teams benefit when they track issues publicly—Chad Whitacre (Sentry)
 - Becoming a remote-first company by practicing openness—Isabel Drost-Fromm (Europace)
 
 ## Building community
