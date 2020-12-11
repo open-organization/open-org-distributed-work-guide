@@ -1,4 +1,4 @@
-# Working table of contents
+# Working table of contents (v1.0)
 
 ## Front matter
 - Preface—Laura Hilliger and Bryan Behrenshausen (We Are Open Co-Op & Red Hat)
@@ -24,7 +24,7 @@
 
 ## Leading and managing
 - Understanding self-organization and management—Alexis Monville (Red Hat)
-- *forthcoming chapter on management*—Allison Matlack (Red Hat)
+- ﻿Building teams we want to be on (regardless of where they're located)—Allison Matlack (Red Hat)
 
 ## Back Matter
 - About the contributors
