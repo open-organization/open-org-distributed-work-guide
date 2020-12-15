@@ -1,4 +1,4 @@
-# Building cohesive remote teams
+## Building cohesive remote teams
 Sim Zacks
 
 > "Science may never come up with a better office communication system than the coffee break."—Earl Wilson
@@ -33,7 +33,7 @@ And when team members think and act openly, each one of them improves.
 To build a cohesive team, you have to work on all the aspects that surround work, though they are not necessarily part of the team's workload. 
 Each one of these dimensions raises its own challenges when the team is working in a remote environment—and even more so when the team is distributed globally.
 
-## Understanding the team goals
+### Understanding the team goals
 Everyone on a team has individual tasks to complete. However, the more each member understands the bigger picture - what everyone else is doing, and why - the easier it will be to shift direction if they need to. It will also be easier to ensure that the solutions they're developing are indeed the best solutions (and the more opportunities they'll find to add unanticipated value to each other's work).
 
 So how do team members discover others' goals? 
@@ -49,7 +49,7 @@ So teams need to deliberately reinforce osmotic information flows and constantly
 During meetings, for example, it's important to ask everyone providing a status to also relate to their work in terms of the team's broader objectives. 
 This will help *everyone* focus on the team's joint mission, and not get bogged down on the details of their specific tasks.
 
-## Informal interactions
+### Informal interactions
 In distributed organizations, people are often assigned tasks appropriate to their professional profiles—not necessarily based on their personal abilities.
 So teams might not be able to infer the full extent of their teammates' talents and interests simply by observing the work they're doing. 
 Therefore, creating ample opportunities for information interactions between distributed team members is essential to team cohesion.
@@ -76,7 +76,7 @@ One strategy for fostering these relationships is schedukling regular coffee bre
 In this case, a "coffee break" is a block of time in which a few people get together on a video call for specifically non-business conversation. 
 It might seem a bit contrived at first, but with time, you'll find it helps build and cement interpersonal relationships. 
 
-## Communication
+### Communication
 In face-to-face environments, people have access to multiple means of communicating.
 Tone, facial expressions, and body language are just as important (if not more so) than the words people use when interacting.
 These channels are rich sources of meaning, and learning *how* your teammates convey ideas is critical to understanding what those teammates are saying.
@@ -93,7 +93,7 @@ When communicating with a remote team, try to keep in mind the following ideas:
 - Use emojis to convey tone, but keep it simple and professional
 - Use video and interactive dialog to keep people engaged, especially in remote environments where distractions abound
 
-## Diversity
+### Diversity
 Every person is unique and has their own way of viewing and interpreting any situation. 
 Everyone's perspective is generally colored by their life experiences, education, and neurodiverse cognitive patterns. 
 A team composed of people with similar backgrounds will have a much narrower range of perspectives than a team made up of people with different backgrounds. 
@@ -103,7 +103,7 @@ Diversity is one of the few components of cohesive teams that is potentially *st
 That is, distributed teams can have members anywhere; teams comprised of people from multiple backgrounds, countries, and cultures have the ability to work together and increase the value they provide. 
 A team whose members learn to interact with each other and feed off of each other's strengths will be able to blend into a cohesive mesh.
 
-## Regular feedback
+### Regular feedback
 Feedback is one critical aspect of a team's ability to constantly improve. 
 Team members must understand what they're doing right so they can *continue* doing that.
 They must also understand the mistakes they've made so that they can work on those issues. 
@@ -123,7 +123,7 @@ To be most effective, this should include a review and status update of both tas
 During these meetings, leaders should provide feedback about the tasks for which the team member is responsible and ask team members for feedback on those tasks, on the team leader, and the team's general direction. 
 This should be an open conversation, where all parties feel safe and valued. 
 
-## Effective retrospectives
+### Effective retrospectives
 When a project reaches a milestone—or wraps up—it's generally a good idea to conduct a retrospective (or "post-mortem") to review how the team succeeded on the project and how it may need to improve in the future. 
 This involves analyzing the _entire_ project process—both the "good" aspects as well as "bad." 
 An effective retrospective process enables team members to provide feedback to their peers and for everyone to learn from one another.
@@ -138,7 +138,7 @@ In a remote environment, a retrospective should be a multi-step process that loo
 - Meet and discuss
 - Action items
 
-### Survey
+#### Survey
 Ask participants to collaborate on writing questions to ask the team about the project. 
 Each retrospective will be unique and require its own questions.
 But here are a few examples you can customize:
@@ -155,20 +155,20 @@ Moreover, when possible, questions should have fixed options as answers.
 This will enable you to generate statistics per answer. 
 Your survey should also include a place for additional comments, so everyone has the opportunity to provide their complete feedback.
   
-### Review
+#### Review
 When all survey results are complete, publish them for the entire team to see and review. 
 Leaders should address any questions about the results so everyone on the team understands them. 
 Everyone on the team should keep track of their own comments on each result.
 
-### Meet & Discuss
+#### Meet & Discuss
 After the individual review is complete, it is time for the retrospective meeting. 
 During the meeting, review each question and allow everyone on the team to share impressions and comments. 
 The result of this session should be a list of the aspects of team workflow and process the team feels should change in future projects (and those that should remain the same).
 
-### Action Items
+#### Action Items
 Send the finalized list to the team for an additional review to gain final feedback before declaring the process complete.
 
-## Celebrating success
+### Celebrating success
 Celebrate when the team successfully completes a project or process. 
 Doing this not only reinforces a culture of positivity but also enables the team to spend time together, informally socializing. 
 
@@ -182,6 +182,6 @@ This peer-recognition is a great way to reinforce every team member's value.
 If the team has a budget for awards, it might consider initiating something like a "member of the month" award (or similar), for which the winner is sent a small token of appreciation (like a restaurant gift certificate). 
 And if every member of the team is working in the same (or closely aligned) time zones, the team might gather on a video call at the end of the work day and share a drink. 
 
-# Expect challenges
+### Expect challenges
 In conclusion, there's no doubt that developing a cohesive distributed team is more challenging than it would be in a co-located environment.
 However, by thinking through all the stages and keeping this goal in mind while establishing workplace conventions, you can acheive similar results.
