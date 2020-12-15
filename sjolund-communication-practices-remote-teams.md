@@ -1,10 +1,11 @@
-# Communication practices typical of high-performing remote teams
+## Communication practices typical of high-performing remote teams
+Jimmy Sjölund
 
-## Introduction
 One often-cited advantage of a colocated team—everyone sitting together in the same space—is the ease of instant interaction and collaboration.
 Need something?
 Just turn around and talk to your teammates!
 In fact, the [Agile Manifesto](https://agilemanifesto.org/) even seems to enshrine this kind of interaction:
+
 > The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 But authors of the Agile Manifesto were working in 2001, when remote collaboration was much more rare than it is today—and when many fewer tools for distributed teamwork were available.
 While face-to-face conversation is still very effective for achieving communication with team members, so much more is possible now through "eFace-to-eFace" interaction.
@@ -17,7 +18,7 @@ You might even need to find communication techniques *better* suited to a remote
 Over the years, I've worked with several teams this way—and I've noted the practices that have made them successful.
 In this chapter, I'll share some of those practices.
 
-## Synchronous communication
+### Synchronous communication
 First let's examine a few useful techniques for *synchronous* communication.
 Synchronous communication is communication that occurs between two or more persons in real time.
 In synchronous settings, there are no delays between the persons taking conversational "turns," and all parties can talk at the same time (though that's perhaps not the best communication style!).
@@ -26,7 +27,7 @@ Typed chat conversations can also be synchronous, as in cases where all parties 
 (If the chat tool has a "history" feature, then others can read what has been written before and respond to that later on—but that would be asynchronous communication.
 More on that later.)
 
-### The watercooler
+#### The watercooler
 Much of communication and networking in the workplace come from meeting people at the office.
 Many discussions, plans, and collaborations have started (or even been decided and concluded) in informal talks over coffee, at lunch, or in the corridors.
 Sometimes, people refer to this as "meeting at the watercooler" (perhaps a thing of the past—but the term has stuck around).
@@ -45,7 +46,7 @@ This room's just for socializing.
 At the company where I work, for example, we have a network you can join to be paired up with a random colleague for lunch.
 This has now migrated to the distributed setting, where instead of going to lunch together, you and a random colleague have lunch and a video meeting occurring at the same time.
 
-### The day-long meeting
+#### The day-long meeting
 Not another meeting?!
 Don't worry.
 It's not.
@@ -57,11 +58,11 @@ Unlike the watercooler channel, this one is typically more business-focused.
 When you run into to an issue or want to discuss something with a co-worker, you can tune into the all-day meeting and see who is available.
 It's an alternative to the practice of turning around and asking your colleague in the room a question; the video call makes the communication more personal and efficient than a text or voice-only chat.
 
-## Asynchronous communication
+### Asynchronous communication
 The opposite of synchronous communication is *asynchronous* communication, or communication that occurs with the conversational "turns" delayed to some degree.
 Typical examples of asynchronous communication practice include sending letters or, more recently, logged a message for someone in your team's chat channel so they can read it in the chat history later (as I mentioned above).
 
-### Standups
+#### Standups
 Teams that work with lean and agile practices usually run some kind of "standup meeting" on a regular basis (some do it every morning, and others less frequently).
 At this meeting, everyone gathers around the team board and looks for work-blocking impediments they might need help with, or to see if the team needs to adjust its priorites priorities somewhere.
 A common formula for a report at the meeting usual looks like this: quickly talk about what I worked on yesterday, discuss what I will focus on today, and explain any problems the team needs to address before I can do that work.
@@ -76,7 +77,7 @@ If you're reporting on impediments you would like to discuss, or something on wh
 Colocated standups—everyone interacting at the same time—do have benefits, and some argue that asynchronous standups are mere "status reports" and not an effective communication activity.
 Why not try it and see if it works for your team?
 
-### Sharing information
+#### Sharing information
 Many meetings are held for the purpose of sharing information.
 One-way information distribution remains common on distributed teams, even while not all information needs to reach everyone at the same time (or within a specific time).
 But maybe your team doesn't need another video meeting to do that?
@@ -93,7 +94,7 @@ That way, if several team members have the same questions, they can read the ans
 This practice is also helpful for people who are more comfortable asking questions after taking some time to reflect on a topic, or don't always prefer to speak up in synchronous meetings (colocated or video enabled!).
 If you have a team spread over multiple time zones, this kind of asynchronous communication is even *more* important for information sharing.
 
-### A3 reports
+#### A3 reports
 A3 reports are the result of a work method or a problem solving approach, one that emerged from Toyota and the Toyota Production System, which one could say ignited the worldwide "lean" movement.
 Toyota uses A3 reports for many purposes—from status reports, to proposal and policy changes, to (most notably) problem solving.
 The name for this method derives from the paper size it once required: the largest possible size you could still fit into a fax machine (today, as less is more, Toyota also promotes A4 reports!).
@@ -130,9 +131,9 @@ It gathers the future goals and needs, and will cascade down through the organiz
 The visualization is important, and a well-crafted one-page message should communicate it easily.
 In the _nemawashi_ process, many have already had the opportunity to give feedback, and through the visualization of the A3, everyone can quickly be reminded of the strategy and how their work is aligned with the goals and achievements.
 
-## Best practices (or 'One more thing ...')
+### Best practices (or 'One more thing ...')
 
-### eFace to eFace
+#### eFace to eFace
 If you have the options of adding video to your call or meeting, I encourage you to do so.
 With video, we can account for more of the feedback channels that colocated communication affords us—nuances lost when we're not in the same room, such as facial expressions and body language.
 Video can't *replace* in-person interaction, but it will be a great enhancement to audio-only communication.
@@ -143,7 +144,7 @@ That said, we're all different—introverts and extroverts, good days and bad da
 In a remote setting, you'll quite commonly see family members stepping into the room, or the (often much-appreciated) cat peeking in from the back of someone's laptop.
 So extend some compassion and understanding, too. Don't force your team members into turning their camera on at all times, but do appreciate when they do and try to do it as much as possible.
 
-### Don't over-compensate
+#### Don't over-compensate
 As distributed teamwork proliferates, people are more conscious than ever about teammates who are working remotely and often work to compensate for the social interactions those teammates might be missing.
 But some tend to run the risk of *overcompensating* too.
 There are now post-work video happy hours, video lunches, video check-ins—we try so hard to make up for the remote situation that all the meetings and gatherings become exhausting.
@@ -152,7 +153,7 @@ Why?
 The meetings weren't providing value that they weren't before we made the switch; on the contrary they took more time away from other work.
 And if your team has never gone out to a post-work event while colocated in the office, don't arrange for several online after-work meeting now—unless, of course, the team specifically asks for it or arranges it themselves.
 
-### Agree on communications
+#### Agree on communications
 When working with a team, one fo the first things I typically do is run a workshop that helps the entire team develop a "working agreement."
 Here, we propose things we want from a well functioning team and clarify what we like and dislike when working together as a team.
 Issues we address here include how to communicate, how we run meetings, how we conduct video chat, and what we expect of ourselves and our collegues.
