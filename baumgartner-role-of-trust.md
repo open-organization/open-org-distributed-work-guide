@@ -2,7 +2,7 @@
 Peter Baumgartner
 
 Lincoln Loop is an open organization in many ways.
-We're [distributed](https://lincolnloop.com/blog/2012/aug/20/distributed-workplace/) across 7 time zones.
+We're [distributed](https://lincolnloop.com/blog/2012/aug/20/distributed-workplace/) across seven time zones.
 We have no central headquarters.
 All members of our core team can [see all our financials](https://lincolnloop.com/blog/open-book-finances/) (literally every penny earned or spent) and [choose their own salaries](https://lincolnloop.com/blog/lincoln-loop-everyone-sets-their-own-salary/).
 We have an open vacation policy and let people set their own work schedules.
