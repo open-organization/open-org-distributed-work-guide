@@ -50,6 +50,7 @@ You're going to be asking people to join your community call.
 How will you pitch it to them? Write a few sentences summarizing what your call is about.
 You can use these sentences to help you promote the call.
 For example:
+
 > Our community call surfaces real world examples that embody the new Greenpeace Story and the 7 shifts.
 > We want to make this community a network that can engage around all things story.
 >

@@ -132,7 +132,7 @@ For example, we're an internal communications team, so we can try to measure thi
 Rather than share an example of some KPIs here, I'll just note that sometimes the conversation is more important than the numbers themselves.
 My team decided to implement a quarterly review process where we'd review our metrics, but after our first trial run, we moved the KPIs to the very end and spent the majority of our time discussing what goals we'd set for the previous quarter, what we actually accomplished, what challenges we encountered, and what we wanted to focus on for the upcoming quarter.
 
-## Step 3: Keep each other in the loop
+### Step 3: Keep each other in the loop
 
 Scrum teams have daily standup meetings, but the rest of us can have difficulty finding ways to keep each other informed of what we're working on and where we might need some help—especially if the team is distributed.
 Having team meetings on a regular, reliable cadence is critical, and it's equally as important to find an *asynchronous* way to provide updates so you can use those team meetings for discussions about issues that need attention, rather than sharing status.
@@ -160,7 +160,7 @@ Let them direct the conversation—sometimes you'll end up talking about anythin
 
 If you have too many direct reports to manage weekly or bi-weekly meetings with all of them, then start a conversation with your own management chain about how to work toward a more sustainable and supportive organizational structure.
 
-## Conclusion
+### Conclusion
 
 Just two years into my career managing a distributed team, I can already say that my favorite part of management is helping create a team I want to be on.
 What I've learned is that once you've established trust, co-created a team charter, and found a way to keep each other in the loop, something magical happens.

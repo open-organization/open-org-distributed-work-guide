@@ -1,4 +1,4 @@
-# What to select when you're connecting
+## What to select when you're connecting
 Ben Cotton
 
 Communication is key to any project's success. 
@@ -19,7 +19,7 @@ While some tools naturally favor certain kinds of interaction, your organization
 
 So let's review some considerations you might make as you select the tools for connecting your distributed team.
  
-## Categories of communication
+### Categories of communication
 
 In this chapter, I lump tools into two broad categories based on the kind of communication they facilitate: *synchronous* and *asynchronous*.
 Synchronous tools are designed for real-time interaction when participants are active at the same time.
@@ -33,7 +33,7 @@ Because you can bend a communication tool to cover both synchronous and asynchro
 Picking "one tool to rule them all" is a valid option, but be aware that it immediately favors one category of communication over the other.
 Plus, the more a tool does, the less likely it is to do those things *well*.
 
-## Pick one
+### Pick one
 
 Let me introduce you to something I call "Cotton's Law of Communication": the number of communication platforms you use only increases.
 
@@ -67,7 +67,7 @@ Cotton's Law.
 
 Do your best to keep entropy in check by intentionally choosing one platform and sticking with it.
 
-## What to select
+### What to select
 
 In what remains of this chapter, I review some considerations you might make when your team is searching for a new communication tool.
 Generally, I'll present them as a series of tradeoffs with "X or Y?" framing and in no particular order.
@@ -75,7 +75,7 @@ Your priorities are your own and you will have to weight each consideration appr
 
 The first section covers considerations that apply to both synchronous and asynchronous tools while the sections following that look at each of those categories in turn.
 
-### Considerations for all tools
+#### Considerations for all tools
 
 **Safety.**
 Contrary to what I said above, I present this consideration first because you should indeed consider it first.
@@ -87,13 +87,14 @@ This is particularly true if you use publicly-available tools (see below).
 The worst time to learn about your platform's safety features is after they're needed.
 
 To ensure your tools promote organizational safety, I suggest reviewing Ben Balter's [list of seven safety features](https://ben.balter.com/2020/08/31/trust-and-safety-features-to-build-into-your-product-before-someone-gets-hurt/) in which a reliably safe tool should have: 
-* blocking/muting, 
-* reporting, 
-* hiding content, 
-* preventing new content, 
-* community guidelines, 
-* auditability, and 
-* user consent.
+
+* blocking/muting
+* reporting
+* hiding content
+* preventing new content
+* community guidelines
+* auditability
+* user consent
 
 While Balter approaches these issues from the perspective of tool *developers*, his list is also instructive for tool *selectors*, too.
 If the tool you're looking at does not include these seven features, you may want to reconsider whether it will meet your needs.
@@ -138,7 +139,7 @@ Does the platform allow for third-party clients, or do you have to use an offici
 People may want to use different clients to get a particular function the official tool doesn't offer.
 This can be an important consideration for people with certain accessibility needs.
 
-### Considerations for synchronous tools
+#### Considerations for synchronous tools
 
 Sometimes you just really need to talk to people in real-time.
 
@@ -166,7 +167,7 @@ Of course, there are other integrations that might matter too.
 Can your software build system automatically post alerts to your communication tool, for example?
 Does the tool automatically recognize certain links and display them in a particular manner?
 
-### Considerations for asynchronous tools
+#### Considerations for asynchronous tools
 
 Of course, not everyone on your distributed team will be sitting at their desks at the same time.
 People go on vacation.
