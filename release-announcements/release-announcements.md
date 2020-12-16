@@ -1,5 +1,9 @@
 # *Human at a Distance* release announcements
 
+## Links
+
+
+
 ## Long-form (for mailing lists, etc.)
 
 Subject: [New book] Human at a Distance: An Open Organization Guide to Distributed Teamwork
