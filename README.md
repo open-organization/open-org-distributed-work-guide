@@ -1,4 +1,4 @@
-# The Open Organization Guide to Distributed Teamwork
+# Human at a Distance: An Open Organization Guide to Distributed Teamwork
 A community-produced guide to open principles and practices that enhance distributed, remote teamwork
 
 ## About the guide
@@ -8,19 +8,7 @@ How can highly distributed teams collaborate on industry-shaping innovations whe
 
 This guide offers remote, distributed teams (those working remotely for the first time, as well as those with extensive remote-work experience) a guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be.
 
-## Potential topics
-
-- Best practices for remaining transparent at a distance
-- Building and maintaining trust on distributed teams
-- Fostering community remotely
-- Making distributed work equitable
-- How managers can best support distributed teams
-- Challenges managers face as part of distributed teams
-- Communication practices typical of high-performing remote teams
-- Establishing and maintaining social norms and contracts transparently and collaboratively
-- How open communities and projects maintain accountability
-- Making decisions asynchronously
-- ... anything else you'd like to propose!
+This book is part of the *Open Organization* [book series](https://theopenorganization.org/books/).
 
 ## Getting started
 See [CONTRIBUTING.md](https://github.com/open-organization/open-org-distributed-work-guide/blob/master/CONTRIBUTING.md) in this repository.
