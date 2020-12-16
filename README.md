@@ -12,7 +12,3 @@ This book is part of the *Open Organization* [book series](https://theopenorgani
 
 ## Getting started
 See [CONTRIBUTING.md](https://github.com/open-organization/open-org-distributed-work-guide/blob/master/CONTRIBUTING.md) in this repository.
-
-## Project timeline
-Release v0.9—July 07  
-Release v1.0—December 15
