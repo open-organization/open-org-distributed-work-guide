@@ -29,9 +29,7 @@ People aren't all round pegs managers can shove in the round holes they've creat
 Here's an easy example of this in practice.
 A company policy may dictate that people must be in their offices from 8 a.m. to 5 p.m. every work day.
 If you ask workers, though, many will tell you the office is where they are *least* productive.
-What's more important to the company, productivity or having warm bodies in the office for a specified period of time? The rule doesn't support the purpose of the company.
-
-Dee Hock, the innovative founder of Visa, [said it well](https://books.google.com/books?id=VWOPCwAAQBAJ&lpg=PT98&dq=dee%20hock%20%22dispense%20with%20command%20and%20control%22&pg=PT98#v=onepage&q=dee%20hock%20%22dispense%20with%20command%20and%20control%22&f=false):
+What's more important to the company, productivity or having warm bodies in the office for a specified period of time? The rule doesn't support the purpose of the company. Dee Hock, the innovative founder of Visa, [said it well](https://books.google.com/books?id=VWOPCwAAQBAJ&lpg=PT98&dq=dee%20hock%20%22dispense%20with%20command%20and%20control%22&pg=PT98#v=onepage&q=dee%20hock%20%22dispense%20with%20command%20and%20control%22&f=false):
 
 > To the degree that you hold purpose and principles in common among you, you can dispense with command and control.
 > People will know how to behave in accordance with them, and they'll do it in thousands of unimaginable, creative ways.
