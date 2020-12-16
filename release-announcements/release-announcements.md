@@ -10,7 +10,7 @@ Featuring chapters from contributors in various organizations across the globe, 
 
 The book is avaialble immediately for download at the following locations.
 
-PDF: {insert final link}
+PDF: {insert final link}  
 ePub: {insert final link}
 
 A paperback version of the book (sold at cost) will be available in Q1 2021.
@@ -19,8 +19,8 @@ Like all other books in the *Open Organization* series, *Human at a Distance* is
 
 For information, visit:
 
+- www.theopenorganization.community
 - http://theopenorganization.org/
-- theopenorganization.community/
 - https://github.com/open-organization
 
 ## Short-form (for social media, etc.)
