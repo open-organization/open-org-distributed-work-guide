@@ -1,9 +1,5 @@
 # *Human at a Distance* release announcements
 
-## Links
-
-
-
 ## Long-form (for mailing lists, etc.)
 
 Subject: [New book] Human at a Distance: An Open Organization Guide to Distributed Teamwork
@@ -12,10 +8,10 @@ The Open Organization community is pleased to announce the release of its newest
 
 Featuring chapters from contributors in various organizations across the globe, the book explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated.
 
-The book is avaialble immediately for download at the following locations.
+The book is available immediately for download at the following locations.
 
-PDF: {insert final link}  
-ePub: {insert final link}
+PDF: {insert link}  
+ePub: {insert link}
 
 A paperback version of the book (sold at cost) will be available in Q1 2021.
 
@@ -35,9 +31,9 @@ We've just released our latest collaboratively written book, a guide to distribu
 
 A holiday gift from our community: A new book focused on empowering teams to work openly while apart. Grab yours here: {URL} #TheOpenOrg
 
-Distributed organizations are more common than they've ever been. And the challenges to working together at a distance have never been more pressing. So the Open Organziation is pleased to offer this new book, which we hope can help teams overcome some of those challenges. It's free, open, and available for download now. {URL}
+Distributed organizations are more common than they've ever been. And the challenges to working together at a distance have never been more pressing. So the Open Organization is pleased to offer this new book, which we hope can help teams overcome some of those challenges. It's free, open, and available for download now. {URL}
 
-What can organizations suddenly working remotely learn from open source communities, which have been working in a distributed fashion for deccades? We've collected some of our community's insights in this new book, Human at a Distance, which is available for download now. {URL}
+What can organizations suddenly working remotely learn from open source communities, which have been working in a distributed fashion for decades? We've collected some of our community's insights in this new book, Human at a Distance, which is available for download now. {URL}
 
 ## About the guide (press summary)
 Distributed organizations are more common than they've ever been. And the challenges to working together at a distance have never been more pressing. Across all industries and geographies, teams are rethinking how they operate—and questioning fundamental assumptions about the nature of work. In this guide, we’ll explore how adopting open principles and practices—the same ones that have guided open source software communities across decades of innovation-at-a-distance—can assist remote, distributed teams grappling with their own remote work challenges.
