@@ -92,7 +92,7 @@ Version 2.0
 April 2017  
 github.com/open-organization/open-org-definition
 
-## Additional Resources
+## Additional resources
 
 ### Learn more
 Explore [additional resources online](http://www.theopenorganization.org), then follow the project on [Twitter](https://www.twitter.com/openorgproject) and [LinkedIn](https://www.linkedin.com/company/the-open-organization).
