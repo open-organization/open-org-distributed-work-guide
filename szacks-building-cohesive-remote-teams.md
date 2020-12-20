@@ -20,7 +20,6 @@ In this chapter, I'll explain the following seven qualities that lead to cohesiv
 
 - Understanding the team goals
 - Informal interactions
-- Knowing the whole person
 - Communication
 - Diversity
 - Regular feedback
