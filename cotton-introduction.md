@@ -82,7 +82,7 @@ Despite its name, storming doesn't require contentious arguments, but it *is* th
 Sections on communication and collaboration speak to elements of the "norming" stage.
 As the name indicates, this is where the team establishes and accepts norms.
 And the last two sections reflect activities that occur in Tuckman's "performing" stage.
-This is where where the organization truly begins reaping the benefits of remote work.
+This is where the organization truly begins reaping the benefits of remote work.
 
 ### A work in progress
 This book is a work in progress; what you're reading is only the first version.
