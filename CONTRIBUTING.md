@@ -6,3 +6,6 @@ Ready to make a contribution? Great! Follow these steps:
 3. **Open an issue.** Ready to pitch an idea? Just head over to our [running list of outstanding issues](https://github.com/open-organization/open-org-distributed-work-guide/issues) and open your own. Tell us what you'd like to contribute, how it connects with the guide's themes, and why it's important for readers to understand.
 
 And that's it! Project editors and maintainers will connect with you to help you outline, develop, and write your work—whatever you need to make a superb contribution.
+
+# Translating
+Thinking of translating some or all of the book? Great! [Please use](https://github.com/open-organization/open-org-distributed-work-guide/tree/master/translations) the ``translations`` folder to organize your work.
